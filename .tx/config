@@ -1,0 +1,14 @@
+[main]
+host = https://www.transifex.com
+
+[peerio.client]
+file_filter = translations/client_<lang>.json
+source_file = client_en.json
+source_lang = en
+type = JSON
+
+[peerio.server]
+file_filter = translations/server_<lang>.json
+source_file = server_en.json
+source_lang = en
+type = JSON
