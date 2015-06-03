@@ -4,7 +4,7 @@
     "signupIntro": "Message contacts and share files simply and securely with Peerio. Live search brings your messages, files, and contacts on demand. Our worldwide cloud let you work anywhere, while end-to-end encryption keeps your data safe everywhere.<br /><br /><strong>Peerio is currently in Beta. <a href='https://peerio.com/pages/beta.html' target='_blank'>Find out what this means</a>.",
     "username": "Username",
     "passphrase": "Passphrase",
-    "passphraseOrPIN": "Passphrase or PIN",
+    "passphraseOrPIN": "Passphrase or Passcode",
     "or": "or",
     "loginFailed": "Login Failed",
     "loginFailedText": "If you are signing in using your Peerio PIN, please try using your account passphrase instead.",
