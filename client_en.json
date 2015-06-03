@@ -287,7 +287,7 @@
     "importContactsSelectToInvite": "Select contacts to add/invite",
     "importContactsSelectToInviteText": "If a contact is already on Peerio, they will be added to your account. Otherwise, we will send them an invitation on your behalf.",
     "importContactsSelectAll": "Select all contacts",
-    "importSelectedContacts": "Import selected contacts"
+    "importSelectedContacts": "Import selected contacts",
     "newFolderDialogTitle": "Add New Folder",
     "newFolderDialogText": "Enter the new folder’s name",
     "folderInputEmptyError": "You need to write something!",
