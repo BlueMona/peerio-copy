@@ -317,5 +317,5 @@
     "movingFilesError": "Sorry, failed to move files to folder",
     "filesMoved": "files moved.",
     "fileMoveError": "Failed to move file into folder.",
-    "removeFileFolderDialogText2": "Files in this folder are now in \"all files\".",
+    "removeFileFolderDialogText2": "Files in this folder are now in \"all files\"."
 }
