@@ -296,7 +296,7 @@
     "success": "Success!",
     "folderCreated": "Your folder has been created!",
     "renameFolderDialogTitle": "Change Folder Name",
-    "renameFolderDialogText": "What should this folder's new name be?,
+    "renameFolderDialogText": "What should this folder's new name be?",
     "renamingFolderError": "Oops! Something went wrong and your folder was not renamed. Please try again.",
     "folderRenamed": "This folder has been renamed.",
     "removeFolderDialogTitle": "Remove Folder",
@@ -319,5 +319,5 @@
     "fileMoveError": "Failed to move file into folder.",
     "removeFileFolderDialogText2": "Files in this folder will be moved to 'all files'.",
     "folder": "Folder",
-    "moveToFolder": "Move to folder",
+    "moveToFolder": "Move to folder"
 }
