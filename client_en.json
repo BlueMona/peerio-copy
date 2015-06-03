@@ -7,7 +7,7 @@
     "passphraseOrPIN": "Passphrase or Passcode",
     "or": "or",
     "loginFailed": "Login Failed",
-    "loginFailedText": "If you are signing in using your Peerio PIN, please try using your account passphrase instead.",
+    "loginFailedText": "If you are using a device passcode, please try using your account passphrase instead.",
     "ok": "OK",
     "submit": "Submit",
     "signup": "Sign up",
