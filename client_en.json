@@ -321,5 +321,6 @@
     "folder": "Folder",
     "moveToFolder": "Move to folder",
 	"passphraseLength": "Passphrase length",
-	"passphraseLanguage":"Passphrase language"
+	"passphraseLanguage":"Passphrase language",
+	"unsorted":"Unsorted"
 }
