@@ -319,5 +319,7 @@
     "fileMoveError": "Failed to move file into folder.",
     "removeFileFolderDialogText2": "Files in this folder will be moved to 'all files'.",
     "folder": "Folder",
-    "moveToFolder": "Move to folder"
+    "moveToFolder": "Move to folder",
+	"passphraseLength": "Passphrase length",
+	"passphraseLanguage":"Passphrase language"
 }
