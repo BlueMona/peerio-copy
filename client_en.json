@@ -321,6 +321,7 @@
     "folder": "Folder",
     "moveToFolder": "Move to folder",
 	"passphraseLength": "Passphrase length",
-	"passphraseLanguage":"Passphrase language",
-	"unsorted":"Unsorted"
+	"passphraseLanguage": "Passphrase language",
+	"unsorted": "Unsorted",
+	"typePassphraseToConfirm": "Please enter this passphrase as it appears above to accept and continue"
 }
