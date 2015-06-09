@@ -325,6 +325,5 @@
 	"words": "words",
 	"unsorted": "Unsorted",
 	"typePassphraseToConfirm": "Please enter this passphrase as it appears above to accept and continue",
-	"passphraseConfirmFailed": "Your passphrase was entered incorrectly. Please store your passphrase somewhere safe before continuing.",
-	"test":"test"
+	"passphraseConfirmFailed": "Your passphrase was entered incorrectly. Please store your passphrase somewhere safe before continuing."
 }
