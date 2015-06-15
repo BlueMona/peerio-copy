@@ -34,7 +34,7 @@
     "emailAccountConfirmationParagraph3": "If you have any comments, suggestions, or problems to report, please e-mail us at support@peerio.com.",
     "emailAccountConfirmationAdieu": "We hope you enjoy using Peerio!",
     "emailAddressConfirmationSubject": "Peerio new address confirmation",
-    "emailAddressConfirmationSalutation": "Hi {{recipient_first_name}}",
+    "emailAddressConfirmationSalutation": "Hi {{recipient_first_name}},",
     "emailAddressConfirmationParagraph1": "You have added this address to your Peerio account, please enter the following code in Peerio to verify this request: {{confirmation_code}}.",
     "emailAddressConfirmationAdieu": "Thank you for using Peerio!",
     "emailTwoFADisabledNotificationSubject": "Your Peerio two-factor authentication has been disabled",
