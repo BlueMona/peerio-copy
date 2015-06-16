@@ -319,11 +319,12 @@
     "fileMoveError": "Failed to move file into folder.",
     "removeFileFolderDialogText2": "Files in this folder will be moved to 'all files'.",
     "folder": "Folder",
-	"folderExistsError": "Folder with this name already exists", 
+    "folderExistsError": "Folder with this name already exists", 
     "moveToFolder": "Move to folder",
-	"length": "length",
-	"words": "words",
-	"unsorted": "Unsorted",
-	"typePassphraseToConfirm": "To accept this passphrase, please enter it below",
-	"passphraseConfirmFailed": "Your passphrase was entered incorrectly. Please store your passphrase somewhere safe before continuing."
+    "length": "length",
+    "words": "words",
+    "unsorted": "Unsorted",
+    "typePassphraseToConfirm": "To accept this passphrase, please enter it below",
+    "passphraseConfirmFailed": "Your passphrase was entered incorrectly. Please store your passphrase somewhere safe before continuing.",
+    "acknowledgedMessage": "Acknowledged Message"
 }
