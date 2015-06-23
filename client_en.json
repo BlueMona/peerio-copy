@@ -152,7 +152,7 @@
     "uploadNewFile": "Upload New Files",
     "downloading": "Downloading",
     "downloadFileError": "Could not download file",
-    "downloadFileErrorText": "Please check your connection and try again.",
+    "downloadFileErrorText": "Oops! An error has occurred, please try again later.",
     "save": "save",
     "allContacts": "All Contacts",
     "confirmedContacts": "Confirmed Contacts",
