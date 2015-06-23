@@ -40,7 +40,7 @@
     "emailTwoFADisabledNotificationSubject": "Your Peerio two-factor authentication has been disabled",
     "emailTwoFADisabledNotificationSalutation": "Hello,",
     "emailTwoFADisabledNotificationParagraph1": "The two-factor authentication on your Peerio account has been disabled, following a request filed through Peerio support.",
-    "emailTwoFADisabledNotificationParagraph2": "If you did not request for 2FA to be disabled, please contact support immediately at support@peerio.com or the Peerio account 'support'.",
+    "emailTwoFADisabledNotificationParagraph2": "If you did not request for 2FA to be disabled, please contact support immediately at support@peerio.com or the Peerio account 'peerio'.",
     "emailTwoFADisabledNotificationParagraph3": "You may re-enable two-factor authentication through the 'Account' preferences panel inside the Peerio application. If you are using Google Authenticator, please make sure to remove any existing Peerio code for your Peerio account from the application first, before adding a new one.",
     "emailTwoFADisabledNotificationParagraph4": "Thank you!",
     "emailErrorReporting": "error report",
