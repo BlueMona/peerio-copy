@@ -33,7 +33,7 @@
     "emailAccountConfirmationParagraph2": "Once you login, just add some contacts and you're ready to start sending messages and sharing files.",
     "emailAccountConfirmationParagraph3": "If you have any comments, suggestions, or problems to report, please e-mail us at support@peerio.com.",
     "emailAccountConfirmationAdieu": "We hope you enjoy using Peerio!",
-    "emailAddressConfirmationSubject": "Peerio new address confirmation",
+    "emailAddressConfirmationSubject": "Please confirm your new address",
     "emailAddressConfirmationSalutation": "Hi {{recipient_first_name}},",
     "emailAddressConfirmationParagraph1": "You have added this address to your Peerio account, please enter the following code in Peerio to verify this request: {{confirmation_code}}.",
     "emailAddressConfirmationAdieu": "Thank you for using Peerio!",
