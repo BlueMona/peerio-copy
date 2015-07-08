@@ -45,7 +45,7 @@
     "emailTwoFADisabledNotificationParagraph4": "Thank you!",
     "emailErrorReporting": "error report",
     "smsContactNotification": "You have new messages on Peerio. Please login to Peerio to view your encrypted messages.",
-    "smsContactRequestNotification": "You have new contact requests on Peerio. Please login to Peerio to view your encrypted messages.",
+    "smsContactRequestNotification": "You have new contact requests on Peerio. Please login to Peerio to accept your contacts' requests.",
     "smsMessageNotification": "You have new messages on Peerio. Please login to Peerio to view your encrypted messages.",
     "smsAccountConfirmation": "Welcome to Peerio Beta! Your confirmation code is {{code}}.",
     "smsAddressConfirmation": "You have added this address to your Peerio account. Please enter the following code in Peerio to approve this request: {{code}}",
