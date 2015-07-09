@@ -178,7 +178,6 @@
     "decline": "Decline",
     "addContactInfo": "Adding friends as contacts",
     "addContactInfoText": "Sending messages and sharing files with your friends begins by adding them as contacts. If your friend is not a Peerio user, an invitation will be sent to their address. You can add a user by specifying their <strong>username</strong>, <strong>email address</strong> or <strong>mobile number</strong>.",
-    "addContactInfoAvatar": "About the contact avatar",
     "addContactInfoAvatarText": "Every Peerio user has a special avatar that identifies them. Think of it as their digital fingerprint. If a Peerio user's avatar changes, they may have changed their passphrase, or their account may have been compromised.",
     "usernameEmailOrPhone": "Username, email address, or mobile number",
     "addContactRequestSent": "Contact Request Sent",
