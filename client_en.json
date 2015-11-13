@@ -321,6 +321,6 @@
     "typePassphraseToConfirm": "To accept this passphrase, please enter it below",
     "passphraseConfirmFailed": "Your passphrase was entered incorrectly. Please store your passphrase somewhere safe before continuing.",
     "acknowledgedMessage": "Acknowledged Message",
-    "addAddressSuggestion": "!!! addAddressSuggestion",
-    "addAddressSuggestionText": "!!! addAddressSuggestionText"
+    "addAddressSuggestion": "Update contact information?",
+    "addAddressSuggestionText": "Adding alternative contact information to your profile such as email addresses or phone numbers makes it easier for your contacts to find you on Peerio. Would you like to update your addresses?"
 }
