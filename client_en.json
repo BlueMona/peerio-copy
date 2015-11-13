@@ -320,5 +320,7 @@
     "unsorted": "Unsorted",
     "typePassphraseToConfirm": "To accept this passphrase, please enter it below",
     "passphraseConfirmFailed": "Your passphrase was entered incorrectly. Please store your passphrase somewhere safe before continuing.",
-    "acknowledgedMessage": "Acknowledged Message"
+    "acknowledgedMessage": "Acknowledged Message",
+    "addAddressSuggestion": "!!! addAddressSuggestion",
+    "addAddressSuggestionText": "!!! addAddressSuggestionText"
 }
