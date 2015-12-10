@@ -66,4 +66,5 @@
     "pushMessageNotificationSingular":"{{username}} has a new Peerio message",
     "pushMessageNotificationPlural":"{{username}} has {{number}} new Peerio messages",
     "pushMessageNotificationGeneric": "{{username}} has pending Peerio notifications"
+    
 }
