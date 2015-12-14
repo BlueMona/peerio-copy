@@ -24,7 +24,7 @@
     "emailInvitationSubject": "You've been invited to join Peerio!",
     "emailInvitationParagraph1": "{{inviter_first_name}} {{inviter_last_name}} would like to share messages and files with you on Peerio!",
     "emailInvitationParagraph2": "Peerio is a simple way to share private messages and files and securely store them in the cloud. {{inviter_first_name}}'s invitation entitles you to 1GB + 250MB of bonus storage when you join Peerio with your email address (optional). Download the app for free at www.peerio.com",
-    "emailInvitationParagraph3": "Once you've signed up, shoot {{inviter_first_name}} a message! Their Peerio username is {{inviter_username}}."
+    "emailInvitationParagraph3": "Once you've signed up, shoot {{inviter_first_name}} a message! Their Peerio username is {{inviter_username}}.",
     "emailInvitationAdieu": "The Peerio Team",
     "emailInvitationUnsubscribeText": "Don't want to receive invitations to join Peerio?",
     "emailInvitationUnsubscribeLinkText": "Click here to unsubscribe:",
