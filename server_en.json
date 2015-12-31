@@ -62,9 +62,10 @@
     "pushContactRequestNotificationSingular":"{{username}} has a new contact request",
     "pushMessageNotificationSingular":"{{username}} has a new Peerio message",
     "pushContactNotificationSingular": "{{username}} has a new contact",
+    "pushContactNotificationSingular": "{{username}} has {{number}} new contacts",
     "pushContactRequestNotificationSingular":"{{username}} has a new contact request",
+    "pushContactRequestNotificationPlural":"{{username}} has {{number}} contact requests",
     "pushMessageNotificationSingular":"{{username}} has a new Peerio message",
     "pushMessageNotificationPlural":"{{username}} has {{number}} new Peerio messages",
     "pushMessageNotificationGeneric": "{{username}} has pending Peerio notifications"
-
 }
