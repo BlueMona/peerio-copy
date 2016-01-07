@@ -57,7 +57,7 @@
     "smsContactNotification": "You have a new contact on Peerio. Please login to Peerio to accept.",
     "smsContactNotificationPlural": "You have {{number}} new contacts on Peerio. Please login to Peerio to accept.",
     "smsContactRequestNotification": "You have a new contact request on Peerio. Please login to Peerio to accept this request.",
-    "smsContactRequestNotificationPlural": "You have {{number}} new contact request on Peerio. Please login to Peerio to accept your contacts' requests.",
+    "smsContactRequestNotificationPlural": "You have {{number}} new contact requests on Peerio. Please login to Peerio to accept your contacts' requests.",
     "smsMessageNotification": "You have a message on Peerio. Please login to Peerio to view your encrypted messages.",
     "smsMessageNotificationPlural": "You have {{number}} new messages on Peerio. Please login to Peerio to view your encrypted messages.",
     "smsAccountConfirmation": "Welcome to Peerio Beta! Your confirmation code is {{code}}.",
