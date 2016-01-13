@@ -66,13 +66,10 @@
     "smsTwoFADisabled": "Two-factor authentication has been disabled on your Peerio account. If you did not disable two-factor authentication, please contact support@peerio.com immediately.",
     "smsAddressDisabled": "This phone number has been disassociated from your Peerio account. If you did not request this, please contact support@peerio.com immediately.",
     "pushContactNotificationSingular": "{{username}} has a new contact",
-    "pushContactRequestNotificationSingular":"{{username}} has a new contact request",
-    "pushMessageNotificationSingular":"{{username}} has a new Peerio message",
-    "pushContactNotificationSingular": "{{username}} has a new contact",
-    "pushContactNotificationSingular": "{{username}} has {{number}} new contacts",
+    "pushContactNotificationPlural":"{{username}} has {{number}} new contacts",
     "pushContactRequestNotificationSingular":"{{username}} has a new contact request",
     "pushContactRequestNotificationPlural":"{{username}} has {{number}} contact requests",
     "pushMessageNotificationSingular":"{{username}} has a new Peerio message",
-    "pushMessageNotificationPlural":"{{username}} has {{number}} new Peerio messages",
+    "pushMessageNotificationPlural":"{{username}} has {{number}} new Peerio messages",    
     "pushMessageNotificationGeneric": "{{username}} has pending Peerio notifications"
 }
