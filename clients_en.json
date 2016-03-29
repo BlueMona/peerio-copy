@@ -1,3 +1,4 @@
 {
-	"test": "test string"
+	"test": "test string",
+	"nesting" : { "one" : "test one", "two" :" test two" }
 }
