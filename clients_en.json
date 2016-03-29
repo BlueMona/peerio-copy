@@ -34,7 +34,7 @@
             "name": "cldr"
           },
           "prop": "plural",
-          "cmpt": false
+          "cmpt": "false"
         },
         "args": [
           {
