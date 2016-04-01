@@ -1,0 +1,12 @@
+{
+  "name": "peerio-copy",
+  "homepage": "https://github.com/PeerioTechnologies/peerio-copy",
+  "authors": [
+    "Anri Asaturov <anri82@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true
+}
