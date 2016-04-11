@@ -44,7 +44,7 @@
     "code": "Code",
     "confirmationCode": "Confirmation code",
     "confirmMyAccount": "Confirm My Account",
-    "invalidConfirmationCode": "please double-check this code.",
+    "invalidConfirmationCode": "Sorry, this is an invalid or expired code.",
     "finishingUp": "Finishing Up",
     "peerioPIN": "Peerio Passcode",
     "setAPeerioPIN": "Set a passcode for this device?",
@@ -331,6 +331,6 @@
     "availableNowMobile": "Available now for Android and iOS.",
     "mobileApps": "Mobile Apps",
     "TOStitle": "Terms Of Use",
-    "TOStext": "By signing up for a Peerio account, you agree to our terms of use.",
-    "TOStextUpdated": "Please read and accept updated terms of use."
+    "TOStext": "By signing up for a Peerio account you agree to our terms of use.",
+    "TOStextUpdated": "We've updated our terms of use! Please review and accept to continue."
 }
