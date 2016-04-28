@@ -362,7 +362,7 @@
   "yourPublicKey": "Your public key",
   "address_phoneInvalid": "Phone numbers require a country code",
   "address_confirmCodePrompt": "Please enter the code you received",
-  "address_confirmCodePrompt2": "Please enter the code you received on your e-mail or phone",
+  "address_confirmCodePrompt2": "Please enter the code you received on your email or phone",
   "address_authorized": "Address authorized",
   "address_conformCodeError": "Confirmation code does not match. Would you like to try again?",
   "address_addingError": "Error adding address. Please contact support.",
