@@ -574,5 +574,6 @@
   "inviteNote": "When one of your contacts signs up for Peerio and enters your promo code, a contact request will automatically be sent to them from your account and both of you will receive 250MB of bonus storage. You can earn up to 10GB of free storage this way!",
   "shareThisCode": "Share this code",
   "touch_keychain": "Enabling TouchID requires using your keychain, would you like to proceed?",
-  "touch_notAvailable": "Fingerprint identification unavailable"
+  "touch_notAvailable": "Fingerprint identification unavailable",
+  "supportFeedback": "Support/Feedback"
 }
