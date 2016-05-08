@@ -575,5 +575,7 @@
   "shareThisCode": "Share this code",
   "touch_keychain": "Enabling Touch ID requires using your keychain, would you like to proceed?",
   "touch_notAvailable": "Fingerprint identification unavailable",
-  "supportFeedback": "Support/Feedback"
+  "supportFeedback": "Support/Feedback",
+  "payments_title": "Buy additional storage",
+  "payments_menu": "Upgrade"
 }
