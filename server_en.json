@@ -80,8 +80,8 @@
     "pushMessageNotificationGeneric": "{{username}} has pending Peerio notifications",
     "pushMessageNotificationGenericTitle": "New account data",
     "paidPlanConfirmationSalutation": "Hello,",
-    "paidPlanConfirmationParagraph1": "Thanks for purchasing a Peerio {{plan_name}} Plan! Your subscription entitles you to {{plan_description}}. Please redeem the following code in your Peerio account to activate your plan: {{plan_coupon}}",
-    "paidPlanConfirmationParagraph2": "See our help center for detailed instructions {{help_center_link}}. We hope you enjoy using Peerio {{plan_name}}!",
+    "paidPlanConfirmationParagraph1": "Thanks for purchasing a {{plan_name}} Plan! Your subscription entitles you to {{plan_description}}. Please redeem the following code in your Peerio account to activate your plan: {{plan_coupon}}",
+    "paidPlanConfirmationParagraph2": "See our help center for detailed instructions {{help_center_link}}. We hope you enjoy using {{plan_name}}!",
     "paidPlanConfirmationAdieu": "The Peerio Team",
     "paidPlanConfirmationFooter": "Your subscription will renew automatically each {{plan_period}}. Cancel anytime, review your order history, or manage your account at {{account_management_link}}."
 }
