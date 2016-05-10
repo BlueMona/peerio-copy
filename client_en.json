@@ -357,6 +357,7 @@
   "optIns": "Opt-ins",
   "optIns_dataCollection": "Data collection",
   "redeemCoupon": "Redeem Coupon",
+  "enterCouponCode": "Enter Coupon Code",
   "participants": "Participants",
   "sharedFiles": "Shared Files",
   "finishingIn": "finishing in {time}",
