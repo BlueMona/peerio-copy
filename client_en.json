@@ -564,7 +564,7 @@
   "coupon_prompt": "If you have a promotional code, please enter it below.",
   "passcode_removeTitle": "{#passcode_remove}",
   "passcode_removeConfirm": "Are you sure you want to remove your passcode?",
-  "passcode_title": "{#peerioPINForThisDevice}",a
+  "passcode_title": "{#peerioPINForThisDevice}",
   "passcode_tooSimple": "passcode is too simple, try again",
   "passcode_notDistinct": "please enter a unique passcode",
   "passcode_tooShort": "{number} more digits to go",
