@@ -138,7 +138,6 @@
   "destroyFilesOwnerErrorText": "Destroying files removes them from every account they have been shared with. Only a file's owner can do that. Please try deleting the file instead.",
   "fileUploadError": "File upload failed",
   "fileUploadErrorText": "Please check your connection and try again.",
-  "file_uploadStorageExceeded": "Storage quota exceeded.",
   "dragAndDropUploadTitle": "Drop to upload to Peerio.",
   "dragAndDropUploadText": "Your files will be encrypted and uploaded to your personal cloud.",
   "allFiles": "All Files",
