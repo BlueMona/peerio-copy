@@ -615,5 +615,7 @@
   "serverWarning_QuotaExceededTitle": "Storage Limit Exceeded",
   "serverWarning_QuotaExcceded": "You're over your storage limit! Your account will have limited functionality until you purchase additional storage or remove some files from your account.",
   "prepare_ghost": "Prepare Ghost",
-  "share_ghost": "Share Ghost"
+  "share_ghost": "Share Ghost",
+  "ghost_settings": "Ghost Settings",
+  "ghost_lifespan": "Lifespan"
 }
