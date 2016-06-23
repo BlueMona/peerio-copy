@@ -615,12 +615,12 @@
   "serverWarning_QuotaExceededTitle": "Storage Limit Exceeded",
   "serverWarning_QuotaExcceded": "You're over your storage limit! Your account will have limited functionality until you purchase additional storage or remove some files from your account.",
   "prepare_ghost": "Prepare Ghost",
-  "share_ghost": "Share Ghost",
-  "ghost_settings": "Ghost Settings",
+  "share_ghost": "Send Ghost",
+  "ghost_settings": "Ghost Instructions",
   "ghost_lifespan": "Lifespan",
-  "ghost_share": "Share Ghost",
-  "ghost_sent_msg": "Your message has been sent to ",
-  "ghost_passphrase_share": "You’ll need to share the passphrase to the Ghost",
+  "ghost_share": "Send Ghost",
+  "ghost_sent_msg": "As instructed, your Ghost will visit {ghost-recipient} for {ghost-expiry-days} and then disappear forever",
+  "ghost_passphrase_share": "Ghosts don't share secrets with just anybody, so you'll need to tell your recipient the Ghost's passphrase",
   "ghost_passphrase_share_helper": "We recommend sharing this passphrase over a different channel",
   "ghost_passphrase_share_link": "Didn’t get the email? Want to share with someone else?"
 }
