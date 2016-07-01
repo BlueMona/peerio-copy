@@ -4063,7 +4063,6 @@ turf
 flirt
 semi
 hound
-sahib
 pint
 wretch
 seldom
@@ -5153,7 +5152,6 @@ retain
 homey
 deb
 fleas
-iraqi
 disney
 edges
 fret
@@ -5168,7 +5166,6 @@ mush
 polls
 zodiac
 liras
-krauts
 prizes
 scarce
 gears
@@ -11733,7 +11730,6 @@ commerce
 plumbing
 clanging
 stirring
-scottish
 policies
 donation
 finishes
