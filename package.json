@@ -1,0 +1,19 @@
+{
+  "name": "peerio-copy",
+  "version": "1.0.0",
+  "description": "Master repository for English copy, synchronized with Transifex.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://anri-asaturov@github.com/PeerioTechnologies/peerio-copy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeerioTechnologies/peerio-copy/issues"
+  },
+  "homepage": "https://github.com/PeerioTechnologies/peerio-copy#readme"
+}
