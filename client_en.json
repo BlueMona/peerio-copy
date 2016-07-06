@@ -633,5 +633,21 @@
   "ghost_toMessageList": "To Message List",
   "ghost_enterRecipient": "Please enter the recipient",
   "ghost_enterBody": "Please enter body",
-  "ghost_enterSubject": "Please enter subject"
+  "ghost_enterSubject": "Please enter subject",
+  "currentReleaseOnGithub": "Current release",
+  "ghost_loadFail":"Failed to load ghost",
+  "ghost_fileDownloadFail":"Failed to download file",
+  "ghost_notFound":"GhostID not found, it might be expired or invalid.",
+  "ghost_enterID":"Enter the GhostID",
+  "ghost_sendOwn":"Send your own Ghost",
+  "getPeerioNow":"Get Peerio Now!",
+  "downloadForPlatform": "Download for {platform}",
+  "peerioIsCodeSigned":"Peerio is <url>code signed</> so you can verify the authenticity of your download."
+  "contactUs":"Contact us on Peerio at username <emphasis>Peerio</>",
+  "press":"Press",
+  "terms":"Terms",
+  "privacy":"Privacy",
+  "decrypt":"decrypt",
+  "ghost_expiresAt":"This Ghost expires at: {expirationDate}",
+  "ghost_youHaveAGhost":"You have a Ghost from -"
 }
