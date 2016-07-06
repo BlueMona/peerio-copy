@@ -642,7 +642,7 @@
   "ghost_sendOwn":"Send your own Ghost",
   "getPeerioNow":"Get Peerio Now!",
   "downloadForPlatform": "Download for {platform}",
-  "peerioIsCodeSigned":"Peerio is <url>code signed</> so you can verify the authenticity of your download."
+  "peerioIsCodeSigned":"Peerio is <url>code signed</> so you can verify the authenticity of your download.",
   "contactUs":"Contact us on Peerio at username <emphasis>Peerio</>",
   "press":"Press",
   "terms":"Terms",
