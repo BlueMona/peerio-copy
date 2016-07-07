@@ -2617,7 +2617,6 @@ growls
 gal
 picnic
 clerk
-rio
 mall
 sleepy
 psycho
@@ -2937,7 +2936,6 @@ bin
 shrink
 fled
 dam
-carlo
 alibi
 cafe
 chow
@@ -3288,7 +3286,6 @@ owed
 ants
 hint
 wired
-pooh
 fade
 ankle
 knocks
@@ -4734,7 +4731,6 @@ nosy
 crust
 colder
 sleigh
-joanne
 skins
 wiser
 moor
@@ -4798,9 +4794,6 @@ riots
 soak
 heated
 tempt
-stein
-marcia
-oregon
 spears
 brag
 poking
@@ -4977,7 +4970,6 @@ fags
 gauge
 sensed
 lever
-ferris
 layers
 brink
 canoe
@@ -5518,11 +5510,8 @@ gore
 johns
 adores
 dire
-aryan
 hens
 smug
-haines
-versa
 duct
 pillar
 buds
@@ -5533,9 +5522,7 @@ diver
 bowman
 oddly
 speedy
-iowa
 hark
-omaha
 manure
 ballad
 trend
@@ -5571,7 +5558,6 @@ gator
 homage
 wholly
 stomp
-balboa
 truths
 sparky
 cosmo
@@ -5579,7 +5565,6 @@ dumps
 cheats
 cupid
 brig
-dada
 emmy
 puddle
 cleans
@@ -6011,7 +5996,6 @@ sahara
 utopia
 hornet
 ethnic
-zed
 patio
 jars
 manic
@@ -6341,7 +6325,6 @@ squads
 walnut
 fats
 keats
-idaho
 casing
 rooted
 cretin
@@ -6438,7 +6421,6 @@ foggy
 mash
 gems
 colon
-nix
 salts
 elope
 hindus
@@ -6565,13 +6547,9 @@ breeds
 puny
 gallop
 canopy
-vive
 orb
-pres
 baa
-geiger
 gusto
-rumba
 graces
 vector
 tolls
@@ -6810,9 +6788,6 @@ cocked
 moat
 yam
 hermes
-brit
-theta
-serbs
 murmur
 trolls
 huts
@@ -7126,7 +7101,6 @@ blanc
 flips
 aloft
 cones
-tulsa
 yeti
 groin
 ranked
@@ -8402,7 +8376,6 @@ channel
 parking
 chasing
 anytime
-angeles
 diamond
 torture
 actress
@@ -9789,8 +9762,6 @@ flashes
 suspend
 bounced
 sandals
-fleming
-katrina
 clarity
 adapted
 premier
@@ -9798,7 +9769,6 @@ sparkle
 puzzles
 fearing
 coaster
-dickens
 boarded
 rascals
 genesis
@@ -9826,20 +9796,15 @@ glamour
 goliath
 spelled
 refrain
-wyoming
 rapping
-serbian
 peppers
 squared
 emptied
 sneezes
 tablets
-carolyn
 harding
 pencils
-whitney
 tribune
-guineas
 drastic
 ongoing
 dashing
@@ -9851,7 +9816,6 @@ morally
 grilled
 slander
 reacted
-negroes
 mammals
 dialect
 bravest
@@ -9875,7 +9839,6 @@ helmets
 platter
 donated
 rewards
-goodman
 coffees
 doggone
 kittens
@@ -9896,10 +9859,8 @@ confide
 cheater
 spinach
 implore
-wilhelm
 tornado
 cardiac
-raphael
 fatigue
 lending
 minding
@@ -9963,7 +9924,6 @@ builder
 scripts
 lunches
 raiders
-finnish
 charade
 singles
 toaster
@@ -9981,9 +9941,7 @@ bottled
 drinker
 waffles
 tedious
-okinawa
 pasture
-masseur
 hobbies
 camelot
 valleys
@@ -10006,8 +9964,6 @@ frantic
 shifted
 tasting
 quoting
-emerson
-ulysses
 threads
 blacked
 crucify
@@ -10017,7 +9973,6 @@ grizzly
 ditched
 stamped
 fanatic
-sinatra
 authors
 recital
 leagues
@@ -10053,7 +10008,6 @@ pesetas
 notions
 bedside
 scalpel
-glasgow
 methane
 hooking
 scoring
@@ -10067,7 +10021,6 @@ harmful
 poisons
 devised
 refusal
-hillary
 brushed
 phrases
 patches
@@ -10077,7 +10030,6 @@ carcass
 torches
 gourmet
 kiddies
-niagara
 florist
 mailman
 plainly
@@ -10114,7 +10066,6 @@ pledged
 outpost
 compact
 unheard
-galahad
 eyelids
 pretext
 upgrade
@@ -10229,7 +10180,6 @@ lodging
 futures
 oatmeal
 nirvana
-quixote
 maidens
 brewing
 pandora
@@ -10262,7 +10212,6 @@ stature
 hoodlum
 cocking
 soprano
-robbins
 bearded
 coastal
 presley
@@ -10300,7 +10249,6 @@ blondes
 vikings
 dreaded
 briefed
-jehovah
 wrongly
 hancock
 demonic
@@ -10309,7 +10257,6 @@ marches
 avenged
 dubious
 milkman
-janeiro
 stifler
 mandate
 breakup
@@ -10397,12 +10344,9 @@ fussing
 wallets
 reptile
 midgets
-galilee
 lowlife
-augusta
 caveman
 weaving
-tibetan
 borough
 mutants
 plateau
@@ -10452,7 +10396,6 @@ chilled
 steamer
 genghis
 rosebud
-malachi
 abusing
 raisins
 arsenic
@@ -10521,7 +10464,6 @@ muffins
 striker
 swapped
 learner
-orpheus
 nemesis
 defiant
 sorcery
@@ -10594,7 +10536,6 @@ defects
 confine
 revered
 swamped
-seville
 extends
 sharper
 twelfth
@@ -10614,7 +10555,6 @@ topside
 scented
 absolve
 cutters
-whoring
 secular
 betrays
 smashes
@@ -10678,7 +10618,6 @@ promised
 continue
 sergeant
 sleeping
-bullshit
 evidence
 suddenly
 starting
@@ -10748,7 +10687,6 @@ goodness
 audience
 research
 realized
-bastards
 painting
 football
 wherever
@@ -10939,7 +10877,6 @@ contrary
 imagined
 argument
 operator
-williams
 identify
 quarters
 election
@@ -10981,7 +10918,6 @@ rumbling
 delicate
 almighty
 compared
-virginia
 activity
 entering
 bothered
@@ -11006,10 +10942,8 @@ survival
 boarding
 airplane
 necklace
-lawrence
 belonged
 countess
-european
 produced
 glorious
 searched
@@ -11061,7 +10995,6 @@ aircraft
 annoying
 creating
 scotland
-victoria
 executed
 freaking
 strategy
@@ -11075,7 +11008,6 @@ appetite
 ministry
 function
 ultimate
-nicholas
 concerns
 covering
 dynamite
@@ -11134,7 +11066,6 @@ crashing
 platform
 economic
 ignorant
-veronica
 paranoid
 designer
 instinct
@@ -11244,7 +11175,6 @@ preserve
 thirteen
 homeland
 guessing
-campbell
 symptoms
 cheerful
 accurate
@@ -11282,7 +11212,6 @@ mortgage
 sniffing
 sneaking
 merciful
-egyptian
 theories
 projects
 disagree
@@ -11337,7 +11266,6 @@ discount
 terminal
 purchase
 tomatoes
-hamilton
 overtime
 ordering
 deceived
@@ -11354,8 +11282,6 @@ canceled
 drawings
 mourning
 generals
-patricia
-sexually
 opinions
 deadline
 notebook
@@ -11367,7 +11293,6 @@ pressing
 careless
 hometown
 software
-carolina
 mattress
 slipping
 improved
@@ -11446,7 +11371,6 @@ incoming
 stunning
 muhammad
 mumbling
-phillips
 grounded
 semester
 blankets
@@ -11470,14 +11394,11 @@ commands
 crippled
 attended
 suggests
-mcdonald
-morrison
 sabotage
 employed
 speakers
 morality
 attempts
-cheyenne
 cadillac
 fugitive
 payments
@@ -11536,8 +11457,6 @@ sidewalk
 resident
 likewise
 godzilla
-chandler
-oklahoma
 mainland
 panicked
 monument
@@ -11587,7 +11506,6 @@ balloons
 specimen
 speeding
 gigantic
-kentucky
 printing
 imbecile
 assemble
@@ -11654,10 +11572,7 @@ initials
 traveler
 composer
 relaxing
-theodore
-missouri
 consumed
-salvador
 commerce
 plumbing
 clanging
@@ -11675,7 +11590,6 @@ amateurs
 cleaners
 doorstep
 urgently
-garfield
 athletic
 detected
 sardines
@@ -11707,10 +11621,8 @@ sneakers
 banished
 hormones
 agencies
-portland
 existing
 sporting
-cromwell
 destroys
 deciding
 stumbled
@@ -11831,7 +11743,6 @@ authority
 committee
 ambulance
 convinced
-elizabeth
 miserable
 customers
 treatment
