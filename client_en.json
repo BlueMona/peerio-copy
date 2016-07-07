@@ -638,8 +638,10 @@
   "ghost_loadFail":"Failed to load ghost",
   "ghost_fileDownloadFail":"Failed to download file",
   "ghost_notFound":"GhostID not found, it might be expired or invalid.",
+  "ghost_expired":"This Ghost has expired at: ",
   "ghost_enterID":"Enter the GhostID",
   "ghost_sendOwn":"Send your own Ghost",
+  "ghost_sending":"Sending a ghost to:",
   "getPeerioNow":"Get Peerio Now!",
   "downloadForPlatform": "Download for {platform}",
   "peerioIsCodeSigned":"Peerio is <url>code signed</> so you can verify the authenticity of your download.",
@@ -648,6 +650,7 @@
   "terms":"Terms",
   "privacy":"Privacy",
   "decrypt":"decrypt",
+  "ghost_expires":"Expires at: ",
   "ghost_expiresAt":"This Ghost expires at: {expirationDate}",
   "ghost_youHaveAGhost":"You have a Ghost from -"
 }
