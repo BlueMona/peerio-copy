@@ -581,6 +581,7 @@
   "touch_notAvailable": "Fingerprint identification unavailable",
   "supportFeedback": "Support/Feedback",
   "payments_title": "Upgrade your storage",
+  "payments_existingTitle": "Plan details",
   "payments_menu": "Upgrade your storage",
   "payments_menu_view": "Manage Subscriptions",
   "payments_hasSubscription": "You already have a subscription",
