@@ -653,5 +653,7 @@
   "decrypt":"decrypt",
   "ghost_expires":"Expires at: ",
   "ghost_expiresAt":"This Ghost expires at: {expirationDate}",
-  "ghost_youHaveAGhost":"You have a Ghost from -"
+  "ghost_youHaveAGhost":"You have a Ghost from -",
+  "ghost_destroyAfter":"Destroy after ",
+  "ghost_days": "days."
 }
