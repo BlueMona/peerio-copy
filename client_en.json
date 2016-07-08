@@ -637,7 +637,7 @@
   "ghost_enterSubject": "Please enter subject",
   "ghost_waitUpload": "Please wait until upload finishes",
   "currentReleaseOnGithub": "Current release",
-  "ghost_loadFail": "Failed to load ghost",
+  "ghost_loadFail": "Ghost could not be opened. Please check your passphrase.",
   "ghost_fileDownloadFail": "Failed to download file",
   "ghost_notFound": "Ghost ID not found, it might be expired or invalid.",
   "ghost_expired": "This Ghost expired at: ",
