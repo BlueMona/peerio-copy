@@ -87,5 +87,14 @@
     "periodMonthly": "monthly",
     "periodMonth": "month",
     "periodAnnual": "annual",
-    "periodYear": "year"
+    "periodYear": "year",
+    "ghostEmailGreeting": "Hello!",
+    "ghostEmailSender": "{{inviter_combined_name}}",
+    "ghostEmailContent1": "has sent you a Peerio Ghost!",
+    "ghostEmailContent2": "A Ghost is an ephemeral secure message that can only be viewed by people who know the secret passphrase.",
+    "ghostEmailContent3": "You can view the Ghost until {{month}} {{day-suffix}} at {{time-12h}} by visiting:",
+    "ghostEmailContent4": "Want to send your own Ghost?",
+    "ghostEmailContent5": "Get Peerio Now!",
+    "ghostEmailClosing": "The Peerio Team",
+    "ghostEmailHelp": "See more detailed instructions on opening Ghost messages."
 }
