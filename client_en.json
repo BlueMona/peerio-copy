@@ -653,7 +653,7 @@
   "privacy": "Privacy",
   "decrypt": "decrypt",
   "ghost_expires": "Expires at: ",
-  "ghost_expiresAt": "This Ghost will disappear at: {expirationDate}",
+  "ghost_expiresAt": "This Ghost will disappear on: {expirationDate}",
   "ghost_youHaveAGhost": "You have a Ghost from -",
   "ghost_destroyAfter": "Disappear after ",
   "ghost_days": "days.",
