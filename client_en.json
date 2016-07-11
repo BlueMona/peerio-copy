@@ -656,5 +656,10 @@
   "ghost_expiresAt": "This Ghost will disappear at: {expirationDate}",
   "ghost_youHaveAGhost": "You have a Ghost from -",
   "ghost_destroyAfter": "Disappear after ",
-  "ghost_days": "days."
+  "ghost_days": "days.",
+  "ghostTip": "Ghosts allow you to send a secure message to anyone by email, even if they don't have Peerio!",
+  "newGhostRecipientError": "Invalid email address",
+  "newGhostRecipientErrorText": "Please enter a valid email address.",
+  "newGhostSendError": "Ghost Error",
+  "newGhostSendErrorText": "Your Ghost could not be sent."
 }
