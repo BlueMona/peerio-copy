@@ -7,6 +7,7 @@
     "messageNotificationsOffText": "You will no longer receive new message notifications. To re-enable notifications, please change your settings within the Peerio application.",
     "contactRequestNotificationsOffText": "You will no longer receive contact request notifications. To re-enable notifications, please change your settings within the Peerio application.",
     "contactNotificationsOffText": "You will no longer receive contact acceptance notifications. To re-enable notifications, please change your settings within the Peerio application.",
+    "emailGenericUnsubscribeText": "Unsubscribe from all emails from Peerio",
     "emailNotificationsOffLinkText": "To disable these emails click here:",
     "emailMessageNotificationsSubject": "New messages on Peerio",
     "emailMessageNotificationsParagraph1": "You have a new message on Peerio! Please log into the Peerio app to read the message.",
@@ -28,7 +29,7 @@
     "emailInvitationParagraph1": "{{inviter_combined_name}} wants to communicate with you privately on Peerio! Peerio lets you share private messages and files and store them in the cloud using end-to-end encryption.",
     "emailInvitationParagraph2": "You can download the apps by visiting https://peerio.com. Once you sign up and confirm this email address you will receive a contact request from {{inviter_combined_name}}.",
     "emailInvitationAdieu": "The Peerio Team",
-    "emailInvitationUnsubscribeText": "Don't want to receive invitations to join Peerio?",
+    "emailInvitationSpecificUnsubscribeText": "Don't want to receive invitations to join Peerio?",
     "emailInvitationUnsubscribeLinkText": "Click here to unsubscribe:",
     "emailAccountConfirmationSubject": "Welcome to Peerio! Confirm your account.",
     "emailAccountConfirmationSalutation": "Welcome to Peerio!",
@@ -97,5 +98,6 @@
     "ghostEmailContent4": "Want to send your own Ghost?",
     "ghostEmailContent5": "Get Peerio Now!",
     "ghostEmailClosing": "The Peerio Team",
-    "ghostEmailHelp": "See more detailed instructions on opening Ghost messages."
+    "ghostEmailHelp": "See more detailed instructions on opening Ghost messages.",
+    "ghostSpecificUnsubscribeLinkText": "Unsubscribe from Peerio Ghost emails"
 }
