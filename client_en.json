@@ -661,5 +661,6 @@
   "newGhostRecipientError": "Invalid email address",
   "newGhostRecipientErrorText": "Please enter a valid email address.",
   "newGhostSendError": "Ghost Error",
-  "newGhostSendErrorText": "Your Ghost could not be sent."
+  "newGhostSendErrorText": "Your Ghost could not be sent.",
+  "publickKeyHelp": "What is a public key?""
 }
