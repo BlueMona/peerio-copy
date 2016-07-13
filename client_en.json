@@ -665,5 +665,5 @@
   "newGhostSendError": "Ghost Error",
   "newGhostSendErrorText": "Your Ghost could not be sent.",
   "ghostOverQuota": "You've used your five Ghosts for the month. Upgrade to Peerio Pro to become a Ghost-whisperer and send as many Ghosts as you like!",
-  "publickKeyHelp": "What is a public key?"
+  "publicKeyHelp": "What is a public key?"
 }
