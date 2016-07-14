@@ -91,13 +91,16 @@
     "periodYear": "year",
     "ghostEmailSubject": "You've received a Peerio Ghost!",
     "ghostEmailGreeting": "Hello!",
-    "ghostEmailSender": "{{inviter_combined_name}}",
+    "ghostEmailSender": "{{senderDisplayName}}",
     "ghostEmailContent1": "has sent you a Peerio Ghost!",
     "ghostEmailContent2": "A Ghost is an ephemeral secure message that can only be viewed by people who know the secret passphrase.",
-    "ghostEmailContent3": "You can view the Ghost until {{month}} {{day-suffix}} at {{time-12h}} by visiting:",
+    "ghostEmailContent3": "You can view the Ghost for {{timeOffset}}, until {{month}} {{day}} at {{time}} by visiting:",
     "ghostEmailContent4": "Want to send your own Ghost?",
     "ghostEmailContent5": "Get Peerio Now!",
     "ghostEmailClosing": "The Peerio Team",
     "ghostEmailHelp": "See more detailed instructions on opening Ghost messages.",
-    "ghostSpecificUnsubscribeLinkText": "Unsubscribe from Peerio Ghost emails"
+    "ghostSpecificUnsubscribeLinkText": "Unsubscribe from Peerio Ghost emails",
+    "emailGhostSubject": "emailGhostSubject",
+    "emailInvitationUnsubscribeText": "emailInvitationUnsubscribeText",
+    "emailInvitationSpecificUnsubscribeLinkText": "emailInvitationSpecificUnsubscribeLinkText"
 }
