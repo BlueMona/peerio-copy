@@ -666,5 +666,7 @@
   "newGhostSendError": "Ghost Error",
   "newGhostSendErrorText": "Your Ghost could not be sent.",
   "ghostOverQuota": "You've used your five Ghosts for the month. Upgrade to Peerio Pro to become a Ghost-whisperer and send as many Ghosts as you like!",
-  "publicKeyHelp": "What is this?"
+  "publicKeyHelp": "What is this?",
+  "ghostOnboardTitle": "<emphasis>Introducing Ghosts!</>",
+  "ghostOnboardText": "You can now send secure messages to anyone, even if they don't have Peerio! When composing a message, enter an email address instead of a Peerio contact and a Ghost will deliver your message. <ghostLink>Learn more</>."
 }
