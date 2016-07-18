@@ -444,6 +444,7 @@
   "contact_requestsTag": "requests authorization",
   "contact_listTitle": "Peerio Contacts",
   "contact_listEmpty": "You don't have any contacts yet! Click below to get started.",
+  "contact_noContactsFound": "No contacts were found",
   "contactSelect_prompt": "Select your recipients",
   "contactSelect_updateRecipientsButton": "Update Recipients",
   "contactSelect_addRecipientsButton": "Add Recipients",
