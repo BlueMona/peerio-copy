@@ -603,7 +603,7 @@
   "payments_planInfo": "Checkout plan info",
   "payments_com.peerio.storage.50.monthly": "Pay monthly",
   "payments_extraStorage": "Extra storage",
-  "payments_ghostLimitMonthly": "Ghosts available per month",
+  "payments_ghostLimitMonthly": "Ghosts",
   "payments_unlimited": "unlimited",
   "androidEncryptionStatusOff": "Your device supports full disk encryption, but it is not currently enabled. Peerio highly recommends the use of disk encryption. Would you like to learn more?",
   "androidEncryptionStatusPartial": "Your device has encryption turned on but your passcode is still set to the default. We recommend setting a unique passcode. Would you like to learn more?",
