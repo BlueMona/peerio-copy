@@ -673,8 +673,8 @@
   "publicKeyHelp": "What is this?",
   "ghostOnboardTitle": "<emphasis>Introducing Ghosts!</>",
   "ghostOnboardText": "You can now send secure messages to anyone, even if they don't have Peerio! When composing a message, enter an email address instead of a Peerio contact and a Ghost will deliver your message. <ghostLink>Learn more</>.",
-  "error_onlyPeerioUser": "You have already added a Peerio user as the first recipient. You can only add more Peerio users as the recipients. If you wish to send a Ghost to an arbitrary email, delete all recipients and enter valid email addresses",
-  "error_onlyPeerioUserFile": "You have already attached a file from your cloud to the message. You can only send files from your cloud to Peerio users. If you wish to send a file to an arbitrary email, delete all attachments, enter valid email addresses and upload the file afterwards",
-  "error_onlyGhostUser": "You have already added an email address as the first recipient. You are sending a Ghost to an arbitrary email address. If you wish to send a regular Peerio message, delete all recipients and enter usernames from your accepted contact list",
-  "error_recipientFormat": "Sorry, we couldn't find a user with that name in your approved contacts and that doesn't look like a valid email address."
+  "error_onlyPeerioUser": "Peerio messages can only be sent to other Peerio users. To send a Ghost, remove all recipients and enter a valid email address.",
+  "error_onlyPeerioUserFile": "At the moment, files in your cloud can only be sent to other Peerio users. If you wish to send a file with a Ghost, please remove all attachments, enter a valid email address, and then upload files.",
+  "error_onlyGhostUser": "By entering an email address you have entered Ghost mode! If you wish to send a Peerio message, please remove your current recipients and enter usernames of other Peerio users.",
+  "error_recipientFormat": "Sorry, we couldn't find a Peerio user or email address associated with that name in your contacts."
 }
