@@ -676,5 +676,6 @@
   "error_onlyPeerioUser": "You have already added a Peerio user as the first recipient. You can only add more Peerio users as the recipients. If you wish to send a Ghost to an arbitrary email, delete all recipients and enter valid email addresses",
   "error_onlyPeerioUserFile": "You have already attached a file from your cloud to the message. You can only send files from your cloud to Peerio users. If you wish to send a file to an arbitrary email, delete all attachments, enter valid email addresses and upload the file afterwards",
   "error_onlyGhostUser": "You have already added an email address as the first recipient. You are sending a Ghost to an arbitrary email address. If you wish to send a regular Peerio message, delete all recipients and enter usernames from your accepted contact list",
-  "error_recipientFormat": "Sorry, we couldn't find a user with that name in your approved contacts and that doesn't look like a valid email address."
+  "error_recipientFormat": "Sorry, we couldn't find a user with that name in your approved contacts and that doesn't look like a valid email address.",
+  "upgrade": "Upgrade"
 }
