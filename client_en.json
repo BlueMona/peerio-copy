@@ -681,6 +681,6 @@
   "downloadPeerioHeader": "Simple security by <emphasis>Peerio</>",
   "downloadPeerioContent": "<url>Download our cross-platform app</> for more features like encrypted messaging, emails, file sharing, and cloud storage",
   "ghostCountUpdate":"You have <emphasis>{ghostsLeft}</> Ghosts left this month",
-  "paywallMsg": "You've used your five Ghosts for the month.",
-  "paywallUpgrade": "Upgrade to Peerio Pro for unlimited Ghosts"
+  "paywallMsg": "You've used all your Ghosts for the month.",
+  "paywallUpgrade": "Upgrade to Peerio Pro to unlock unlimited Ghosts"
 }
