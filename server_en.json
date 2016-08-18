@@ -99,6 +99,7 @@
     "ghostEmailContent5": "Get Peerio Now!",
     "ghostEmailClosing": "The Peerio Team",
     "ghostEmailHelp": "See more detailed instructions on opening Ghost messages.",
-    "ghostSpecificUnsubscribeLinkText": "Unsubscribe from Peerio Ghost emails"
+    "ghostSpecificUnsubscribeLinkText": "Unsubscribe from Peerio Ghost emails",
+    "testString": "dont translate this"
 }
 
