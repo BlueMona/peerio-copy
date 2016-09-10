@@ -567,6 +567,10 @@
   "passcode_removeTitle": "{#passcode_remove}",
   "passcode_removeConfirm": "Are you sure you want to remove your passcode?",
   "passcode_title": "{#peerioPINForThisDevice}",
+  "passcode_enter": "Create device passcode",
+  "passcode_simple": "Passcode is too simple",
+  "passcode_confirm": "Confirm device passcode",
+  "passcode_tryagain": "Passcodes do not match",
   "passcode_tooSimple": "passcode is too simple, try again",
   "passcode_notDistinct": "please enter a unique passcode",
   "passcode_tooShort": "{number} more digits to go",
@@ -682,5 +686,10 @@
   "downloadPeerioContent": "<url>Download our mobile and desktop apps</> for more features like encrypted messaging, emails, file sharing, and cloud storage.",
   "ghostCountUpdate":"You have <emphasis>{ghostsLeft}</> Ghosts left this month",
   "paywallMsg": "You've used all your Ghosts for the month.",
-  "paywallUpgrade": "Upgrade to Peerio Pro to unlock unlimited Ghosts"
+  "paywallUpgrade": "Upgrade to Peerio Pro to unlock unlimited Ghosts",
+  "passphrase_notset": "Passprase is not saved. Please reinstall the app",
+  "passphrase_wrongpin": "Wrong pin entered",
+  "passphrase_show": "Show passphrase",
+  "passphrase_show_title": "Show passphrase",
+  "passphrase_enterpin": "Please enter pin"
 }
