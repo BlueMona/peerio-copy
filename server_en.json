@@ -93,7 +93,7 @@
     "ghostEmailGreeting": "Hello!",
     "ghostEmailSender": "{{senderDisplayName}}",
     "ghostEmailContent1": "has sent you a Peerio Ghost!",
-    "ghostEmailContent2": "A Ghost is an ephemeral secure message that can only be viewed by people who know the secret passphrase.",
+    "ghostEmailContent2": "A Ghost is an ephemeral secure message that can only be viewed by people who know the secret password.",
     "ghostEmailContent3": "You can view the Ghost for {{timeOffset}}, until {{month}} {{day}} at {{time}} by visiting:",
     "ghostEmailContent4": "Want to send your own Ghost?",
     "ghostEmailContent5": "Get Peerio Now!",
