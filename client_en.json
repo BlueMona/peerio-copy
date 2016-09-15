@@ -691,8 +691,8 @@
   "passphrase_show": "Show Recovery Password",
   "passphrase_show_title": "Show Recovery Password",
   "passphrase_enterpin": "Please enter your PIN",
-  "passphrase_enternewpin": "Please enter new PIN",
-  "passphrase_confirmnewpin": "Please confirm new PIN",
+  "passphrase_enternewpin": "Set a PIN for this device",
+  "passphrase_confirmnewpin": "Please confirm your PIN",
   "PINSetupRequired": "Login faster by setting a PIN for this device. If this is not a device you use regularly you can skip this step.",
   "enterCurrentPINorPassphrase": "Enter your PIN or Recovery Password",
   "unlockSettings": "Unlock",
@@ -700,5 +700,6 @@
   "incorrectPasswordOrPINTitle": "Wrong PIN or Recovery Password",
   "incorrectPasswordOrPIN": "Please try again.",
   "peerioPINconfirm": "Confirm",
-  "PINDoesNotMatch": "Confirmation doesn't match" 
+  "PINDoesNotMatch": "Confirmation doesn't match", 
+  "successPINchange": "Your PIN has been changed"
 }
