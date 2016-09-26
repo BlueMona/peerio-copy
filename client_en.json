@@ -49,7 +49,7 @@
   "peerioPIN": "Peerio PIN",
   "peerioPINdesktop": "Peerio Password",
   "setAPeerioPIN": "Set a Password for this device",
-  "signupPeerioPIN": "Instead of entering your Master Password each time you login, you can choose a shorter PIN that will only work on this device. If you forget your PIN you can use your Master Password to set a new one. You will always need your Master Password to login on a new device.",
+  "signupPeerioPIN": "Instead of entering your Master Password each time you login, you can choose a shorter Device Password that will only work on this device. If you forget your Device Password you can use your Master Password to set a new one. You will always need your Master Password to login on a new device.",
   "PINNotStrong": "Password strength: weak",
   "PINStrong": "Password strength: ok!",
   "setPIN": "Set PIN",
