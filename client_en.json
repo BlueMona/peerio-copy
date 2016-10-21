@@ -702,5 +702,6 @@
   "incorrectPasswordOrPIN": "Please try again.",
   "peerioPINconfirm": "Confirm",
   "PINDoesNotMatch": "Confirmation doesn't match",
-  "successPINchange": "Your PIN has been changed"
+  "successPINchange": "Your PIN has been changed",
+  "optional": "Optional"
 }
