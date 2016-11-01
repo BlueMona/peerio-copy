@@ -546,7 +546,6 @@
     "2fa_addressRequired": "You don't have a registered contact address. If you lose your 2FA, Peerio won't be able to recover your account.",
     "2fa_clipboard": "The following key has been copied to your clipboard. Please paste it in your authenticator app.",
     "2fa_manualCopy": "Copy and paste the following secret key into your authenticator app",
-
     "conversation_noParticipants": "There are no participants left in this conversation",
     "conversation_withSelf": "You are the only person in this conversation.",
     "conversation_participantLeftAt": "left at",
