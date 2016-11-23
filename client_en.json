@@ -712,5 +712,6 @@
     "PINDoesNotMatch": "Confirmation doesn't match",
     "successPINchange": "Your PIN has been changed",
     "directMessages": "Direct message",
-    "userSearch": "Enter username"
+    "userSearch": "Enter username",
+    "messageSearch": "Search conversations"
 }
