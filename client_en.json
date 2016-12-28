@@ -584,7 +584,7 @@
     "passcode_notDistinct": "please enter a unique PIN",
     "passcode_tooShort": "{number} more digits to go",
     "passcode_restriction": "PIN must be 6 digits",
-    "passcode_inputPlaceholder": "Enter a device PIN",
+    "passcode_inputPlaceholder": "Select a device PIN",
     "passcode_ok": "you're good to go",
     "settings_saveFailed": "Settings save failed.",
     "settings_optIn": "By enabling anonymous data collection, we will collect non-identifying and non-content information to share with researchers and improve Peerio. When you opt in, we will add 25MB to your account everyday as thanks for your contribution.",
@@ -716,5 +716,6 @@
     "successPINchange": "Your PIN has been changed",
     "directMessages": "Direct message",
     "userSearch": "Enter username",
-    "messageSearch": "Search conversations"
+    "messageSearch": "Search conversations",
+    "wait": "Working..."
 }
