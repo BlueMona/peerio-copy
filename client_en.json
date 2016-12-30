@@ -535,6 +535,7 @@
     "file_locationLocal": "On this device (decrypted) and in the cloud (encrypted)",
     "file_locationCloud": "In the cloud (encrypted)",
     "file_uploadComplete": "Upload complete.",
+    "file_shortUploadComplete": "{fileName} finished uploading.",
     "file_uploadFailed": "Upload failed.",
     "file_uploadStorageExceeded": "Storage quota exceeded.",
     "file_namePrompt": "Enter filename:",
