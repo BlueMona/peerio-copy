@@ -7,7 +7,7 @@
     "messageNotificationsOffText": "You will no longer receive new message notifications. To re-enable notifications, please change your settings within the Peerio application.",
     "contactRequestNotificationsOffText": "You will no longer receive contact request notifications. To re-enable notifications, please change your settings within the Peerio application.",
     "contactNotificationsOffText": "You will no longer receive contact acceptance notifications. To re-enable notifications, please change your settings within the Peerio application.",
-    "addressConfirmedTitle": "Your address {{email}} has been confirmed! ",
+    "addressConfirmedTitle": "Your address {{address}} has been confirmed! ",
     "addressConfirmedBody": "Other users will be able to find you by searching for this email. You may also receive emails with important account notifications.",
     "addressConfirmationErrorTitle": "An error occurred",
     "addressConfirmationErrorBody": "Your email address has not been linked to your account. This means other users will not be able to look you up using it. Please contact support through the username 'support' or support@peerio.com",
