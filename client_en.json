@@ -729,6 +729,6 @@
   "usernameBadFormat": "Only letters, numbers or underscore allowed, 16 characters max.",
   "usernameNotAvailable": "Username is not available.",
   "usernameNotFound": "Username not found.",
-  "error_invalidName": "That name is not allowed."
-  
+  "error_invalidName": "That name is not allowed.",
+  "devicePIN_required": "Device PIN required"
 }
