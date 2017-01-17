@@ -730,5 +730,6 @@
   "usernameNotAvailable": "Username is not available.",
   "usernameNotFound": "Username not found.",
   "error_invalidName": "That name is not allowed.",
-  "devicePIN_required": "Device PIN required"
+  "devicePIN_required": "Device PIN required",
+  "passcode_notSet": "Passcode is not set on this device, so you cannot view your master password."
 }
