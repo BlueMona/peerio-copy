@@ -638,6 +638,7 @@
   "serverWarning_QuotaExceededTitle": "Storage Limit Exceeded",
   "serverWarning_QuotaExcceded": "You're over your storage limit! Your account will have limited functionality until you purchase additional storage or remove some files from your account.",
   "serverWarning_recoveryReminder": "To access Peerio on other devices, you will need to use your account's master password that can be found in your settings. Visit our help center to learn more. https://peerio.zendesk.com/hc/en-us/articles/214633103",
+  "ghosts": "Ghosts",
   "prepare_ghost": "Prepare Ghost",
   "share_ghost": "Send Ghost",
   "ghost_settings": "Ghost Instructions",
