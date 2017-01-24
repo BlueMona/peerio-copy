@@ -734,5 +734,6 @@
   "devicePIN_required": "Device PIN required",
   "passcode_notSet": "Passcode is not set on this device, so you cannot view your master password.",
   "saved_toExternal": "Files would be saved to shared directory to be accessed by your other applications. Ok?",
-  "settings": "Settings"
+  "settings": "Settings",
+  "file_uploadComplete": "Upload complete"
 }
