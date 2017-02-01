@@ -736,5 +736,6 @@
   "saved_toExternal": "Files would be saved to shared directory to be accessed by your other applications. Ok?",
   "settings": "Settings",
   "file_uploadComplete": "Upload complete",
-  "go": "GO"
+  "go": "GO",
+  "chatWith": "Chat with..."
 }
