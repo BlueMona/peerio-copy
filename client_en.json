@@ -366,7 +366,7 @@
   "address_taken": "Sorry, that address is already taken",
   "address_removeConfirm": "Are you sure you want to remove this address?",
   "address_makePrimary": "Tap an address to make it your primary.",
-  "address_confirmationSent": "Please check your email to confirm and link your email account. Users won't be able to find you through that email address until you do.",
+  "address_confirmationSent": "Email! Check! Please! Sorry! 🍁",
   "address_confirmationSent_mobile": "Confirm your email",
   "address_confirmed": "Your email has been linked! Other Peerio users will now be able to find you through your email.",
   "account_deleteTitle": "{#deleteAccount}",
