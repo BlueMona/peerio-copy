@@ -740,5 +740,7 @@
   "chatWith": "Chat with...",
   "signupStep1": "Signup (1 of 2)",
   "signupStep2": "Signup (2 of 2)",
-  "iosGhostAttachmentsUnavailable": "Downloading encrypted attachments is not supported on iOS. Please use desktop Chrome, Firefox or Internet Explorer"
+  "iosGhostAttachmentsUnavailable": "Downloading encrypted attachments is not supported on iOS. Please use desktop Chrome, Firefox or Internet Explorer",
+  "login_masterPassword1": "Your <emphasis>Master Password</> is required when logging in to a new device.",
+  "login_masterPassword2": "You can find it in the <emphasis>Security Settings</> of the app."
 }
