@@ -775,5 +775,7 @@
   "2fa_enter": "Enter the code provided by your authenticator app.",
   "2fa_authenticatorCode": "Authenticator app code",
   "2fa_secretKey": "Secret key",
-  "logs": "Logs"
+  "logs": "Logs",
+  "ghosts_sendingError": "Error sending Peerio Mail",
+  "ghosts_quotaExceeded": "Quota exceeded. Please upgrade your plan."
 }
