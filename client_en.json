@@ -779,5 +779,14 @@
   "ghosts_sendingError": "Error sending Peerio Mail",
   "ghosts_quotaExceeded": "Quota exceeded. Please upgrade your plan.",
   "files_uploadError": "Error uploading a file",
-  "files_quotaExceeded": "Quota exceeded. Please upgrade your plan."
+  "files_quotaExceeded": "Quota exceeded. Please upgrade your plan.",
+  "signup_desktop_passcodeIntro1": "This password is <em>for this device only</em>.",
+  "signup_desktop_passcodeIntro2": "Your <em>Master Password</em> is required to log into a new device.",
+  "signup_desktop_passcodeIntro3": "It is available in the <em>Security Settings</em> of the app.",
+  "signup_passcodeHint_length":"At least 8 characters.",
+  "signup_passcodeHint_case": "Use both upper and lower case.",
+  "signup_passcodeHint_number":"Use at least one number.",
+  "signup_passcodeHint_specialChars": "Use at least one special character.",
+  "signup_passcodeHint_dictionary": "No common words (\"password\", etc).",
+  "signup_passcodeErrorShort": "Please choose a longer password"
 }
