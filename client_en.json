@@ -743,6 +743,7 @@
   "iosGhostAttachmentsUnavailable": "Downloading encrypted attachments is not supported on iOS. Please use desktop Chrome, Firefox or Internet Explorer",
   "login_masterPassword1": "Your <emphasis>Master Password</> is required when logging in to a new device.",
   "login_masterPassword2": "You can find it in the <emphasis>Security Settings</> of the app.",
+  "login_useMP": "Use Master Password",
   "signup_pinIsNotStrongEnough": "PIN is not strong enough",
   "button_share": "Share",
   "button_more": "More",
