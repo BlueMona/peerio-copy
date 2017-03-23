@@ -50,6 +50,8 @@
   "title_passwordHint_number":"Use at least one number",
   "title_passwordHint_specialChars":"Use at least one special character",
   "title_passwordHint_dictionary":"No common words (password, etc.)",
+  "warning_passwordAdded": "Your device password has been set",
+  "title_newDevice": "Set up a new device",
   "serverWarning_emailConfirmationSent": "Please check your email to confirm your address.",
   "serverWarning_emailConfirmationSent_mobile": "Please check your email to confirm your address.",
   "address_confirmed":"Your email address was confirmed.",
