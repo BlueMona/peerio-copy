@@ -11,6 +11,8 @@
     "addressConfirmedBody": "Other users will be able to find you by searching for this email. You may also receive emails with important account notifications.",
     "addressConfirmationErrorTitle": "An error occurred",
     "addressConfirmationErrorBody": "Your email address has not been linked to your account. This means other users will not be able to look you up using it. Please contact support through the username 'support' or support@peerio.com",
+	"addressConfirmationLinkExpiredTitle":"Expired link",
+	"addressConfirmationLinkExpiredBody":"The confirmation link has expired. Go to Peerio's profile settings to send a new link.",
     "emailFooterContact": "emailFooterContact",
     "emailFooterPress": "Press",
     "emailFooterPrivacy": "Privacy Policy",
