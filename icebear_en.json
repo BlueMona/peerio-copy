@@ -133,6 +133,7 @@
   "title_today": "Today",
   "title_newMessages": "New messages",
   "error_messageSendFail": "Unable to send your message",
+  "error_chatRename": "Unable to rename chat",
   "error_invalidMessageSignature": "The crypotgraphic signature of this message is invalid. This might mean someone forged this message.",
   "title_readMore": "Read more",
   "title_files": "Files",
