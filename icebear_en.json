@@ -155,6 +155,8 @@
   "title_fileFilterAll": "All files",
   "title_fileFilterShared": "Shared by you",
   "title_fileFilterReceived": "Shared with you",
+  "title_fileShared": "{name} was shared.",
+  "title_filesShared": "{count} files were shared.",
   "title_downloading": "Downloading",
   "title_uploading": "Uploading {name}",
   "title_fileName": "File name",
