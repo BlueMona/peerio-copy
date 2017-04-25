@@ -135,7 +135,7 @@
   "title_newMessages": "New messages",
   "error_messageSendFail": "Unable to send your message",
   "error_chatRename": "Unable to rename chat",
-  "error_invalidMessageSignature": "The crypotgraphic signature of this message is invalid. This might mean someone forged this message.",
+  "error_invalidMessageSignature": "The message's signature is invalid . It may be a forgery",
   "title_readMore": "Read more",
   "title_files": "Files",
   "title_selectedFiles": "Selected file(s)",
