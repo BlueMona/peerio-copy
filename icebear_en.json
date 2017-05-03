@@ -127,7 +127,7 @@
   "title_chatNull2": "One on one or in a group.",
   "title_chatSearch": "Search chats",
   "title_chatWith": "Chat with...",
-  "title_chatRemove": "Remove from list",
+  "button_hideChat": "Hide chat",
   "title_haveAChat": "Have a chat",
   "title_chatBeginning": "This is the beginning of your chat history with",
   "title_chatCreated": "{fullName} created this encrypted chat",
