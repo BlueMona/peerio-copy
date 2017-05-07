@@ -129,6 +129,8 @@
   "title_chatNull2": "One on one or in a group.",
   "title_chatSearch": "Search chats",
   "title_chatWith": "Chat with...",
+  "title_chatArchive": "Messages older than 90 days will be archived.",
+  "button_upgradeForArchive": "Upgrade to accesss your archive.",
   "button_hideChat": "Hide chat",
   "title_haveAChat": "Start chat",
   "title_chatBeginning": "This is the beginning of your chat history with",
