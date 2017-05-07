@@ -281,5 +281,6 @@
   "title_MailDays": "days.",
   "title_publicKeyHelp": "What is this?",
   "title_HHdownloadPeerioHeader": "Simple security by <b>Peerio</>",
-  "title_HHdownloadPeerioContent": "<a-downloadApp>Download our mobile and desktop apps</> for more features like encrypted chat, emails, file sharing, and cloud storage."
+  "title_HHdownloadPeerioContent": "<a-downloadApp>Download our mobile and desktop apps</> for more features like encrypted chat, emails, file sharing, and cloud storage.",
+  "title_storageUsage": "Storage usage"
 }
