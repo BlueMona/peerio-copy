@@ -14,7 +14,7 @@
   "title_wait": "Working...",
   "title_error": "Error",
   "title_search": "Search",
-  "title_dontShowAgain":"Don't show this again",
+  "title_dontShowAgain": "Don't show this again",
   "button_signup": "Sign up",
   "button_next": "Next",
   "button_back": "Back",
@@ -288,5 +288,6 @@
   "title_publicKeyHelp": "What is this?",
   "title_HHdownloadPeerioHeader": "Simple security by <b>Peerio</>",
   "title_HHdownloadPeerioContent": "<a-downloadApp>Download our mobile and desktop apps</> for more features like encrypted chat, emails, file sharing, and cloud storage.",
-  "title_storageUsage": "Storage used"
+  "title_storageUsage": "Storage used",
+  "title_messageInputPlaceholder": "Message {chatName}"
 }
