@@ -15,7 +15,7 @@
   "title_error": "Error",
   "title_search": "Search",
   "title_dontShowAgain": "Don't show this again",
-  "button_CreateAccount": "Create Account",
+  "button_CreateAccount": "Create account",
   "button_next": "Next",
   "button_back": "Back",
   "button_finish": "Finish",
@@ -39,6 +39,11 @@
   "title_username": "Username",
   "title_pin": "PIN",
   "title_AccountKey": "Account Key",
+  "title_yourAccountKey": "Your Account Key",
+  "title_AKwarn1": "Don't get",
+  "title_AKwarn2": "Locked out!",
+  "title_AKwarn3": "Peerio doesn’t use <i>passwords</> like other apps. This key protects all your info, <b>so keep it safe!</>",
+  "title_AKwarn4": "<b>Save this now.</> You’re going to need it later.",
   "title_devicePassword": "Device Password",
   "title_devicePasswordConfirm": "Confirm Device Password",
   "title_PINConfirm": "Confirm Device PIN",
@@ -273,6 +278,7 @@
   "button_emailLogs": "Debug (email)",
   "button_contact": "Contact Peerio",
   "button_terms": "Terms",
+  "title_storageUsage": "Storage used",
   "dialog_updateAvailable": "Peerio Update",
   "title_updateWillRestart": "An update has finished downloading and is ready to install.",
   "title_updateDownloading": "Peerio is downloading an update.",
@@ -299,6 +305,5 @@
   "title_MailDays": "days.",
   "title_publicKeyHelp": "What is this?",
   "title_HHdownloadPeerioHeader": "Simple security by <b>Peerio</>",
-  "title_HHdownloadPeerioContent": "<a-downloadApp>Download our mobile and desktop apps</> for more features like encrypted chat, emails, file sharing, and cloud storage.",
-  "title_storageUsage": "Storage used"
+  "title_HHdownloadPeerioContent": "<a-downloadApp>Download our mobile and desktop apps</> for more features like encrypted chat, emails, file sharing, and cloud storage."
 }
