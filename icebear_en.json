@@ -225,6 +225,7 @@
   "button_save": "Save",
   "button_addEmail": "Add Email",
   "button_makePrimary": "Make primary",
+  "title_primaryEmail": "Primary Email",
   "title_settingsSecurity": "Security",
   "title_touchID": "Touch ID",
   "dialog_enableTouchID": "Protect your account with Touch ID?",
