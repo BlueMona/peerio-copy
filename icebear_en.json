@@ -268,6 +268,7 @@
   "title_offlineNotifications": "Offline notifications",
   "title_inAppNotifications": "In-app notifications",
   "title_never": "Never",
+  "title_emailNotifications": "Emails",
   "title_emailsDetail": "Send me an email when...",
   "title_notificationsEmailMessage": "I receive a message",
   "title_desktopNotificationsMessage": "Show desktop notifications",
@@ -331,7 +332,6 @@
   "title_HHdownloadPeerioContent": "<a-downloadApp>Download our mobile and desktop apps</> for more features like encrypted chat, emails, file sharing, and cloud storage.",
   "notification_newMessages": "{count} new messages",
   "notification_newMentions": "Mentioned multiple times",
-  "notification_newDMs": "{count} new messages",
   "notification_newDMs": "Lots of new messages",
   "notification_manyNewMessages": "Lots of new messages",
   "notification_manyNewMentions": "Mentioned multiple times"
