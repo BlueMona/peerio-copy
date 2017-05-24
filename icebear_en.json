@@ -282,7 +282,7 @@
   "title_mentionDesktopNotificationsMessage": "I receive a mention or direct message only",
   "title_messageDesktopNotificationsMessage": "I receive a message",
   "title_displayPreferences": "Display",
-  "title_unreadChatsOnTopDetail": "Move chats with unread messages to the top of the chat list",
+  "title_unreadChatsOnTopDetail": "Show unread messages first",
   "title_dataPreferences": "Data",
   "title_dataDetail": "Help us improve your experience and fix bugs faster by sharing data with us automatically",
   "title_errorTrackingMessage": "Share crash & error reports",
