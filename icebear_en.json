@@ -312,6 +312,7 @@
   "button_supportEmail": "Email support",
   "title_logsIntro": "Debugging? Grab application logs from here: ",
   "button_copyLogs": "Copy logs to clipboard",
+  "snackbar_logsCopied": "Logs copied to clipboard",
   "button_emailLogs": "Send logs via email",
   "title_feedback": "Feedback",
   "title_feedbackIntro": "We want to hear what you think. Chat with us!",
