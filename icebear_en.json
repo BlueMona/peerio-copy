@@ -97,7 +97,7 @@
   "error_passwordSuggestionGeneric": "Mixing case, numbers, and symbols, helps make a stronger password.",
   "error_signupServerError": "Server error. Please try again later.",
   "error_usernameNotFound": "Username not found.",
-  "error_emailNotFound": "Email not found:",
+  "error_userNotFound": "User not found",
   "error_loginFailed": "Sign-in failed",
   "error_cannotMigrate": "Legacy (Peerio 1.x) accounts are not yet supported in this private release. Please contact support or create a new account for testing.",
   "title_contacts": "Contacts",
