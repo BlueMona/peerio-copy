@@ -260,7 +260,7 @@
   "title_AKDetail": "Keep your Account Key safe by writing it down or storing it in a password manager. You will need it to set up Peerio on a new device. <a-mpDetail>Find out more</>.",
   "title_AKDetail2": "Don't share your Account Key with anyone.",
   "title_securityDeviceSettings": "Device settings",
-  "title_securityDeviceSettingsDetail": "These settings will only apply to this device"
+  "title_securityDeviceSettingsDetail": "These settings will only apply to this device",
   "title_accountActivity": "Account activity",
   "title_accountActivityDetail": "View your login history including dates, times, and IP addresses used to access your Peerio account.",
   "button_showAK": "Show Account Key",
