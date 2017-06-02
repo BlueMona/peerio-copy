@@ -79,6 +79,7 @@
   "title_passwordHint_dictionary": "Don't use common words (\"password\", your username, etc.)",
   "warning_passwordAdded": "Your Device Dassword has been set",
   "warning_PINadded": "Your PIN has been added",
+  "warning_emailConfirmationSent": "Email confirmation was sent.",
   "warning_emailConfirmationResent": "Email confirmation was sent again.",
   "title_AKlogin": "Find your <b>Account Key</> in the <b>security settings</> of a device you've used before.",
   "serverWarning_emailConfirmationSent": "Check your email to confirm your address. Emails <b>MUST</> be confirmed for other users to find you and for improved support.",
