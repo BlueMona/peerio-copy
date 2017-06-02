@@ -236,6 +236,7 @@
   "error_resendConfirmation": "Unable to email confirmation link, please try again later.",
   "error_contactFingerprintChangedDetail": "This contact's Peerio ID# has changed. Verify the new ID# with your contact by calling them or using another messaging service to be sure of their identity. <a-contactFingerprint>Find out more.</>",
   "button_resend": "Resend link",
+  "button_confirm": "Confirm",
   "button_save": "Save",
   "button_addEmail": "Add Email",
   "button_makePrimary": "Make primary",
