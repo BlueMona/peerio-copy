@@ -304,6 +304,7 @@
   "title_dataDetail": "Help us improve your experience and fix bugs faster by sharing data with us automatically",
   "title_errorTrackingMessage": "Share crash & error reports",
   "title_dataCollectionMessage": "Share anonymous usage data",
+  "title_accountDelete": "Delete account",
   "serverWarning_promoConsentRequest": "Would you like to receive occasional emails from Peerio regarding updates and new products?",
   "title_promoConsent": "Receive emails from Peerio regarding updates and new products.",
   "title_promoConsentRequestTitle": "Product updates",
