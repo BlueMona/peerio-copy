@@ -379,5 +379,9 @@
   "button_addToYourContacts": "Add to your favourites",
   "button_removeFromYourContacts": "Remove from your favourites",
   "title_socialShareInvite": "Join me on Peerio!",
-  "title_socialShareInviteContent": "I’m communicating securely on Peerio. Add me under the username {username}, let's chat – {socialShareUrl}"
+  "title_socialShareInviteContent": "I’m communicating securely on Peerio. Add me under the username {username}, let's chat – {socialShareUrl}",
+  "title_randomMessage1": "Peerio is <b>always</> encrypted, pretty cool, eh?",
+  "title_randomMessage2": "Got any <b>big</> files today? I could use the workout.",
+  "title_randomMessage3": "Want to make Peerio even better? Let us know how, message <b>@feedback</>.",
+  "title_randomMessage4": "It's okay to pick favorites. Mark the ⭐ in a chat to keep it in sight."
 }
