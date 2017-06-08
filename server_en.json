@@ -41,7 +41,7 @@
     "emailInvitationParagraph2": "Once you sign up, you can start a chat with {{inviterCombinedName}} at the username \"{{inviterUsername}}\"",
     "emailInvitationParagraph3": "If you have any feedback on the app, send a message to “feedback” on Peerio. Your comment will help us make Peerio the secure communication tool you actually want to use.",
     "emailInvitationParagraph4": "We look forward to hearing from you!",
-    "emailInvitationCallToAction": "Download the private release of Peerio Messenger here:",
+    "emailInvitationCallToAction": "Download the private release of {{messengerAppName}} here:",
     "emailInvitationDownload": "Download",
     "emailInvitationUnsubscribeLine1": "If you wish to unsubscribe and never receive these emails again,",
     "emailInvitationUnsubscribeLine2": "Please ",
