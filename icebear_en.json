@@ -223,7 +223,7 @@
   "error_emailInviteSend": "Error sending invite",
   "error_uploadFailed": "Upload failed",
   "error_downloadFailed": "Download failed",
-  "error_fileRemoved": "File removed",
+  "error_fileRemoved": "File unavailable",
   "error_fileSizeChanged": "File size has changed, can't resume upload.",
   "title_settings": "Settings",
   "title_settingsPreferences": "Preferences",
