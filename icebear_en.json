@@ -304,7 +304,7 @@
   "title_accountDelete": "Delete account",
   "title_accountDeleteDescription1": "If you choose to delete your account it's gone. Forever. We can't recover it for you.",
   "title_accountDeleteDescription2": "Once you confirm, an email will be sent to your primary address to begin the process.",
-  "title_accountDeleteDescription3": "Unless you choose to delete all files, ownership is transfered to shared recipients.",
+  "title_accountDeleteDescription3": "Your files will be deleted and shared files will no longer be available to recipients.",
   "title_accountDeleteAllFiles": "Delete all files",
   "serverWarning_promoConsentRequest": "Would you like to receive occasional emails from Peerio regarding updates and new products?",
   "title_promoConsent": "Receive emails from Peerio regarding updates and new products.",
