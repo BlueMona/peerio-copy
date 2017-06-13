@@ -2,6 +2,8 @@
     "invitations_unsubscribe_title": "Success!",
     "invitations_unsubscribe_text": "Invitations will no longer be sent to <span>{{email}}</span>.",
     "invitations_unsubscribe_error": "An error occurred and your request could not be processed.",
+    "genericErrorTitle": "Something went wrong.",
+    "genericErrorBody": "Your changes could not be processed. To get in touch with support, please message the username {{supportUsername}} on {{mainAppName}} or send an email to {{supportEmail}} ",
     "notificationsOffTitle": "Success!",
     "notificationsOffError": "An error occurred and your changes could not be processed. Please try again later.",
     "messageNotificationsOffText": "You will no longer receive new message notifications. To re-enable notifications, please change your settings within the {{mainAppName}} application.",
@@ -91,5 +93,12 @@
     "ghostEmailContent5": "Get {{mainAppName}} Now!",
     "ghostEmailClosing": "The {{companyName}} Team",
     "ghostEmailHelp": "See more detailed instructions on opening Ghost messages.",
-    "ghostSpecificUnsubscribeLinkText": "Unsubscribe from {{mainAppName}} Ghost emails"
+    "ghostSpecificUnsubscribeLinkText": "Unsubscribe from {{mainAppName}} Ghost emails",
+    "emailAccountCloseConfirmParagraph1": "You have requested to delete your account. Please confirm the deletion by clicking the button below:",
+    "emailAccountCloseConfirmParagraph2": "If you do not click the link above, your account will not be deleted.",
+    "emailAccountCloseConfirmAction": "Delete my account",
+    "accountClosedTitle": "Your Peerio account has been deleted. You will receive a confirmation email shortly.",
+    "accountClosedBody": "We’re sorry to see you go 😢. We’re always improving Peerio, and we hope you’ll consider using Peerio again in the future.",
+    "emailAccountClosedParagraph1": "Your Peerio account has been deleted",
+    "emailAccountClosedParagraph2": "All your files and account data have been wiped from our servers."
 }
