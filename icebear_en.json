@@ -374,6 +374,7 @@
   "title_addAContact": "Add or invite a contact",
   "title_favoriteContacts": "Favourites",
   "title_invitedContacts": "Invited",
+  "title_inviteLegacy": "This legacy Peerio user has not migrated to Peerio 2 yet.",
   "title_allContacts": "All Contacts",
   "title_findAContact": "Search your contacts",
   "title_shareSocial": "Invite elsewhere",
