@@ -75,7 +75,7 @@
     "paidPlanConfirmationSalutation": "Hello,",
     "paidPlanConfirmationParagraph1": "Thanks for purchasing a Pro Plan! Your {{plan_period1}} subscription entitles you to 50GB of additional cloud storage.",
     "paidPlanConfirmationParagraph2": "See our help center for detailed instructions {{{help_center_link}}} We hope you enjoy using {{mainAppName}} Pro!",
-    "paidPlanConfirmationAdieu": "The {{mainAppName}} Team",
+    "paidPlanConfirmationAdieu": "The {{companyName}} Team",
     "paidPlanConfirmationFooter": "Your subscription will renew automatically each {{plan_period2}}. Cancel anytime, review your order history, or manage your account at {{{account_management_link}}}",
     "periodMonthly": "monthly",
     "periodMonth": "month",
@@ -89,7 +89,7 @@
     "ghostEmailContent3": "You can view the Ghost for {{timeOffset}}, until {{month}} {{day}} at {{time}} by visiting:",
     "ghostEmailContent4": "Want to send your own GhostMail?",
     "ghostEmailContent5": "Get {{mainAppName}} Now!",
-    "ghostEmailClosing": "The {{mainAppName}} Team",
+    "ghostEmailClosing": "The {{companyName}} Team",
     "ghostEmailHelp": "See more detailed instructions on opening Ghost messages.",
     "ghostSpecificUnsubscribeLinkText": "Unsubscribe from {{mainAppName}} Ghost emails"
 }
