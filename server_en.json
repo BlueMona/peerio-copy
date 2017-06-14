@@ -45,7 +45,7 @@
     "emailAccountConfirmationParagraph3": "Please note that failing to confirm one (or more) email addresses will mean you might not be able to use certain functionality in the app",
     "emailAccountConfirmationAction": "CONFIRM EMAIL",
     "emailAddressConfirmationSubject": "Please confirm your new address",
-    "emailAddressConfirmationSalutation": "Hi {{recipient_first_name}},",
+    "emailAddressConfirmationSalutation": "Hi {{recipient_normalised_name}},",
     "emailAddressConfirmationParagraph1": "You have added this address to your {{mainAppName}} account.}",
     "emailAddressConfirmationAction": "CONFIRM EMAIL",
     "emailAddressConfirmationParagraph2": "Once you have clicked the link above, other {{mainAppName}} users will be able to find you by looking up your email address. Please check your in-app settings in order to toggle email notifications and make this address primary.",
