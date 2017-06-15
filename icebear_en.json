@@ -390,6 +390,6 @@
   "title_randomMessage2": "Got any <b>big</> files today? I could use the workout.",
   "title_randomMessage3": "Want to make Peerio even better? Let us know how, message <b>@feedback</>.",
   "title_randomMessage4": "It's okay to pick favorites. Mark the ⭐ in a chat to keep it in sight.",
-  "title_accountSuspended1": "Account suspended",
-  "title_accountSuspended2": "Please contact support at <a-mailSupport>support@peerio.com</> to restore your account. Also, check the primary email address associated with your account, as you may have already been contacted."
+  "error_accountSuspendedTitle": "Account suspended",
+  "error_accountSuspendedText": "Please contact support at <a-mailSupport>support@peerio.com</> to restore your account. Also, check the primary email address associated with your account, as you may have already been contacted."
 }
