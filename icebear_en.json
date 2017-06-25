@@ -25,6 +25,7 @@
   "button_finish": "Finish",
   "button_login": "Sign in",
   "button_logout": "Sign out",
+  "title_confirmSignout": "Are you sure you wish to sign out? You will need your Account Key to sign in again.",
   "button_reRollAccountKey": "Generate new Account Key",
   "button_saveAccountKey": "Save Account Key",
   "error_connecting": "You seem to be offline. Trying to connect...",
