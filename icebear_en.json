@@ -94,6 +94,7 @@
   "error_usernameNotAvailable": "Username is not available.",
   "error_invalidName": "Name is not allowed.",
   "error_invalidEmail": "Enter a valid email.",
+  "error_invalidEmailOrUsername": "Enter a valid email or username.",
   "error_addressNotAvailable": "Email address is not available.",
   "error_passwordRepeat": "Passwords do not match.",
   "error_passwordWeak": "Choose a stronger password.",
