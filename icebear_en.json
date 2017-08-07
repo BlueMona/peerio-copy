@@ -13,6 +13,8 @@
   "button_enable": "Enable",
   "button_disable": "Disable",
   "button_active": "Active",
+  "button_accept": "Accept",
+  "button_decline": "Decline",
   "title_images": "Images",
   "title_name": "Name",
   "title_wait": "Working...",
@@ -298,5 +300,6 @@
   "error_accountSuspendedText": "Please contact support at <a-mailSupport>support@peerio.com</> to restore your account. Also, check the primary email address associated with your account, as you may have already been contacted.",
   "error_deletingAccountNoConfirmedEmail": "Error deleting account. You must have confirmed your email address to delete your account.",
   "error_upgradingAccountNoConfirmedEmail": "Please confirm your email address before upgrading your Peerio account.",
-  "error_deletingAccount": "Error deleting account"
+  "error_deletingAccount": "Error deleting account",
+  "title_addedPeopleLimit": "{added}/{limit} people in this chat"
 }
