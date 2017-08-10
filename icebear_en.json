@@ -309,6 +309,7 @@
   "title_limitDialogText1": "Your account allows for only {limit} channels at a time",
   "title_limitDialogText2": "If you wish to join or create another channel, please delete an existing one or upgrade your account",
   "button_createChannel": "Create Channel",
+  "button_deleteChannel": "Delete Channel",
   "button_createChat": "Create Chat",
   "button_leaveChannel": "Leave channel",
   "button_channelLimit": "Channel limit",
@@ -328,5 +329,7 @@
   "error_promoteToAdmin": "Unable to promote to admin.",
   "error_removeParticipant": "Unable to remove member.",
   "title_invitedBy": "Invited by {username} at {timestamp}",
-  "title_admin": "admin"
+  "title_admin": "admin",
+  "button_makeAdmin": "Make admin",
+  "button_demoteAdmin": "Demote admin"
 }
