@@ -382,5 +382,9 @@
   "title_invitedBy": "Invited by {username} at {timestamp}",
   "title_admin": "admin",
   "button_makeAdmin": "Make admin",
-  "button_demoteAdmin": "Demote admin"
+  "button_demoteAdmin": "Demote admin",
+  "title_2FA": "Two-factor authentication",
+  "title_2FADetail": "Two-factor authentication provide an additional layer of security to your Peerio account. To set up 2FA enter the secret key into your authenticator app.",
+  "title_2FASecret": "Secret key"
+
 }
