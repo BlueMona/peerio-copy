@@ -105,6 +105,7 @@
   "button_forward": "Forward",
   "button_send": "Send",
   "button_upgrade": "Upgrade",
+  "title_upgradeMessage": "Upgrade to get additional storage, unlimited channels, and unlimited archive.",
   "error_fileQuotaExceeded": "You don't have enough space. <a-upgrade>Upgrade</> for more storage.",
   "serverWarning_Welcome": "A paid plan has been registered to your account. You can view your plan benefits and learn <a-proWelcome>how to manage your account</>.",
   "serverWarning_Cancelled": "Your Peerio plan has been cancelled. Your paid benefits will expire on the end date of your plan and your plan will not be renewed.",
