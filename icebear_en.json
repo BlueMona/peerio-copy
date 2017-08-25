@@ -407,5 +407,19 @@
   "button_2FAShowQRCode": "Use the QR code instead",
   "title_enterTOTPCode": "Input generated code",
   "title_enterTOTPCodeFromApp": "Input code displayed in the app",
+  "title_authApps": "Let's get you started",
   "title_trustThisDevice": "Trust this device"
+  "title_authAppsDetails": "To enable 2 Step Verification use an authenticator app such as <a-googleAuth>google authenticator</> or <a-authy>authy</> on your desktop or mobile device, and follow the steps on the screen.",
+  "title_2FAEnabledThanks": "Thanks for adding another layer of security to your account.",
+  "title_2FABackupDetail": "If you can't access your second verification method, save these backup codes to avoid getting locked out of Peerio.",
+  "button_2FABackupDownload": "Save backup codes PDF",
+  "title_2FALoginAuth": "Authenticate with 2FA to login",
+  "title_2FABackupCodeAuth": "Authenticate with 2FA to reissue backup codes",
+  "title_2FADisableAuth": "Authenticate with 2FA to disable 2 Step Verification",
+  "title_2FALoginAuthPreText": "Enter code from your authenticator app to login.",
+  "title_2FALoginAuthPostText": "Trusted devices will be getting less 2fa requests on login to minimize inconvenience.",
+  "title_2FABackupCodeAuthPreText": "Enter code from your authenticator app to get 2fa backup codes.",
+  "title_2FABackupCodeAuthPostText": "After you enter 2fa code, backup codes will get reissued and previous ones invalidated.",
+  "title_2FADisableAuthPreText": "Enter code from your authenticator app to disable two step verification.",
+  "title_2FADisableAuthPostText": "By disabling two step verification, you are removing a layer of security from your account"
 }
