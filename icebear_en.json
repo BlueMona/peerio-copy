@@ -363,6 +363,7 @@
   "button_leaveChannel": "Leave channel",
   "button_channelLimit": "Channel limit",
   "title_channelDeleted": "Channel deleted.",
+  "title_channelInvites": "Channel invites",
   "title_channelInviteRevoked": "Invite to channel revoked.",
   "title_createChannel": "Create channel",
   "title_createChannelDetails": "Channels have unlimited participants. They work best when organized by topic. Free accounts are limited to 2 channels. <a-upgrade>Upgrade for unlimited channels</>.",
