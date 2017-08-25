@@ -135,7 +135,7 @@
   "title_chatWith": "Chat with",
   "title_chatWithSubtitle": "Or send an invite to an email address",
   "title_chatArchive": "Messages older than 90 days will be archived.",
-  "title_upgradeForArchive": "Upgrade to access your archive.",
+  "button_upgradeForArchive": "Upgrade to access your archive.",
   "title_outOfStorage": "You're out of storage",
   "title_currentQuota": "Current quota",
   "button_hideChat": "Hide chat",
