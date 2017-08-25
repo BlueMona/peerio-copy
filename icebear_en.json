@@ -360,6 +360,7 @@
   "button_createChannel": "Create Channel",
   "button_deleteChannel": "Delete channel",
   "button_inviteToChannel": "Add members",
+  "title_addParticipants": "Add members",
   "button_createChat": "Create Chat",
   "button_leaveChannel": "Leave channel",
   "button_channelLimit": "Channel limit",
