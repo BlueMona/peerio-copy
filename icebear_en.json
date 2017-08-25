@@ -404,5 +404,5 @@
   "title_pasteTOTPKey": "Paste the key",
   "button_2FAShowQRCode": "Use the QR code instead",
   "title_enterTOTPCode": "Input generated code",
-  "title_enterTOTPCodeFromApp": "Input code displayed in the app",
+  "title_enterTOTPCodeFromApp": "Input code displayed in the app"
 }
