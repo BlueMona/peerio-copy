@@ -436,5 +436,10 @@
   "title_welcomeFastContent": "So fast, you’ll forget that everything is always encrypted.",
   "title_confirmTextSample": "I have saved my account key",
   "title_confirmTextInput": "Confirm that you’ve saved your key by entering  “{sample}” in the input below.",
-  "title_confirmTextInputLabel": "Have you saved your account key?"
+  "title_confirmTextInputLabel": "Have you saved your account key?",
+  "title_confirmHeadline": "Got your keys?",
+  "title_confirmContent1": "Only you have a copy of your Account Key.",
+  "title_confirmContent2": "If you lose it, we cannot help you access your account.",
+  "title_accountKey1": "Passwords are way stronger when computers make them. This Account Key was generated just for you. Beep boop.",
+  "title_accountKey2": "Since Peerio cannot access any of your data, including this Account Key, saving a backup may help you in the future."
 }
