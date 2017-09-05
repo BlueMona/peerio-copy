@@ -447,11 +447,11 @@
   "title_onboarding2": "Get more free storage by completing these tasks!",
   "title_onboardingLink": "Click the cloud icon in the lower left to return to this list.",
   "title_onboardingConfirmEmail": "Confirm your email",
-  "title_onboardingConfirmEmailContent": "Earn 100MB storage and connect with your friends easily",
+  "title_onboardingConfirmEmailContent": "Earn 100MB storage and connect with your friends easily.",
   "title_onboardingCreateARoom": "Create a room",
-  "title_onboardingCreateARoomContent": "Earn 100MB for creating a room",
-  "title_onboardingInvitePeople": "Invite friends to join Peerio",
-  "title_onboardingInvitePeopleContent": "Earn 100MB storage per friend. {current}/{max} joined Peerio.",
+  "title_onboardingCreateARoomContent": "Earn 100MB for creating a room.",
+  "title_onboardingInvitePeople": "Invite friends to join Peerio ({current}/{max})",
+  "title_onboardingInvitePeopleContent": "Earn 100MB storage per friend.",
   "title_onboardingTSV": "Enable Two-Step Verification'",
   "title_onboardingTSVContent": "Earn 100MB storage while increasing your security."
 }
