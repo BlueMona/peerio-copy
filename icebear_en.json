@@ -425,5 +425,13 @@
   "title_2FADisableAuthPostText": "By disabling two step verification, you are removing a layer of security from your account",
   "title_kickedFromChannel": "You have been removed from room '{name}'",
   "title_pendingEmailChannelInvites": "Your have pending room invites. After you confirm your email address, the admin of the room will be able to send you an invite.",
-  "title_onboardingInstallMobileApp": "Install mobile app. (<a-iosApp>iOS</>, <a-androidApp>Android</>)"
+  "title_onboardingInstallMobileApp": "Install mobile app. (<a-iosApp>iOS</>, <a-androidApp>Android</>)",
+  "title_welcomeHeading": "Welcome to Peerio!",
+  "title_welcomeSubHeading": "Your private and secure collaboration platform",
+  "title_welcomePrivate": "Private",
+  "title_welcomePrivateContent": "Peerio’s end-to-end encryption keeps your data safe from breaches.",
+  "title_welcomeSafe": "Safe",
+  "title_welcomeSafeContent": "Only you can access your account. Your data is safe and secure 24/7.",
+  "title_welcomeFast": "Fast",
+  "title_welcomeFastContent": "So fast, you’ll forget that everything is always encrypted."
 }
