@@ -426,6 +426,7 @@
   "title_kickedFromChannel": "You have been removed from room '{name}'",
   "title_pendingEmailChannelInvites": "Your have pending room invites. After you confirm your email address, the admin of the room will be able to send you an invite.",
   "title_onboardingInstallMobileApp": "Install mobile app. (<a-iosApp>iOS</>, <a-androidApp>Android</>)",
+  "title_onboardingInstallMobileAppContent": "Earn 100MB storage and access to Peerio while on the go.",
   "title_welcomeHeading": "Welcome to Peerio!",
   "title_welcomeSubHeading": "Your private and secure collaboration platform",
   "title_welcomePrivate": "Private",
@@ -441,5 +442,16 @@
   "title_confirmContent1": "Only you have a copy of your Account Key.",
   "title_confirmContent2": "If you lose it, we cannot help you access your account.",
   "title_accountKey1": "Passwords are way stronger when computers make them. This Account Key was generated just for you. Beep boop.",
-  "title_accountKey2": "Since Peerio cannot access any of your data, including this Account Key, saving a backup may help you in the future."
+  "title_accountKey2": "Since Peerio cannot access any of your data, including this Account Key, saving a backup may help you in the future.",
+  "title_onboarding1": "Thanks for joining Peerio!",
+  "title_onboarding2": "Get more free storage by completing these tasks!",
+  "title_onboardingLink": "Click the cloud icon in the lower left to return to this list.",
+  "title_onboardingConfirmEmail": "Confirm your email",
+  "title_onboardingConfirmEmailContent": "Earn 100MB storage and connect with your friends easily",
+  "title_onboardingCreateARoom": "Create a room",
+  "title_onboardingCreateARoomContent": "Earn 100MB for creating a room",
+  "title_onboardingInvitePeople": "Invite friends to join Peerio",
+  "title_onboardingInvitePeopleContent": "Earn 100MB storage per friend. {current}/{max} joined Peerio.",
+  "title_onboardingTSV": "Enable Two-Step Verification'",
+  "title_onboardingTSVContent": "Earn 100MB storage while increasing your security."
 }
