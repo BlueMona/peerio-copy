@@ -433,5 +433,8 @@
   "title_welcomeSafe": "Safe",
   "title_welcomeSafeContent": "Only you can access your account. Your data is safe and secure 24/7.",
   "title_welcomeFast": "Fast",
-  "title_welcomeFastContent": "So fast, you’ll forget that everything is always encrypted."
+  "title_welcomeFastContent": "So fast, you’ll forget that everything is always encrypted.",
+  "title_confirmTextSample": "I have saved my account key",
+  "title_confirmTextInput": "Confirm that you’ve saved your key by entering  “{sample}” in the input below.",
+  "title_confirmTextInputLabel": "Have you saved your account key?"
 }
