@@ -453,5 +453,7 @@
   "title_onboardingInvitePeople": "Invite friends to join Peerio ({current}/{max})",
   "title_onboardingInvitePeopleContent": "Earn 50MB storage per friend.",
   "title_onboardingTSV": "Enable Two-Step Verification",
-  "title_onboardingTSVContent": "Earn 100MB storage while increasing your security."
+  "title_onboardingTSVContent": "Earn 100MB storage while increasing your security.",
+  "title_channelEmailInviteRemoveSuccess": "Invite cancelled",
+  "error_channelEmailInviteRemove": "Unable to cancel invite"
 }
