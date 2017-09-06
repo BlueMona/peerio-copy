@@ -164,6 +164,7 @@
   "error_messageSendFail": "Unable to send your message",
   "error_chatRename": "Unable to change chat title",
   "error_chatPurposeChange": "Unable to change chat purpose",
+  "title_purpose": "Room purpose",
   "error_invalidMessageSignature": "The message's signature is invalid. It may be a forgery.",
   "error_invalidFileSignature": "The file's signature is invalid. It may be a forgery.",
   "error_invalidFileSignatureLong": "This file signature could not be verified. It is possible that the file was forged by a third party.",
