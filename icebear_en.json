@@ -413,7 +413,7 @@
   "title_authAppsDetails": "To enable 2 Step Verification use an authenticator app such as <a-googleAuth>google authenticator</> or <a-authy>authy</> on your desktop or mobile device, and follow the steps on the screen.",
   "title_2FAEnabledThanks": "Thanks for adding another layer of security to your account.",
   "title_2FABackupDetail": "If you can't access your second verification method, save these backup codes to avoid getting locked out of Peerio.",
-  "button_2FABackupDownload": "Save backup codes PDF",
+  "button_2FABackupDownload": "Save backup codes",
   "title_2FALoginAuth": "Authenticate with 2FA to login",
   "title_2FABackupCodeAuth": "Authenticate with 2FA to reissue backup codes",
   "title_2FADisableAuth": "Authenticate with 2FA to disable 2 Step Verification",
