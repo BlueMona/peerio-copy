@@ -462,5 +462,6 @@
   "error_setup2fa": "Unable to enable two step verification",
   "error_disable2fa": "Unable to disable two step verification",
   "error_reissue2faBackupCodes": "Unable to generate backup codes",
-  "error_invalid2faCode": "Invalid two step verification code"
+  "error_invalid2faCode": "Invalid two step verification code",
+  "title_earned": "{current}MB of {max}MB earned"
 }
