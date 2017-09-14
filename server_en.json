@@ -31,7 +31,7 @@
     "emailMessageNotificationsOffText": "Don't want to receive emails about new messages?",
     "emailInvitationSubject": "{{inviterCombinedName}} has invited you to {{mainAppName}}!",
     "emailInvitationSalutation": "Hello! 👋",
-    "emailInvitationParagraph1": "{{inviterCombinedName}} has invited you to try out the new {{mainAppName}}. {{mainAppName}} is a simple way to take control of your privacy. Send end-to-end encrypted messages and attachments. Keep your files safe by storing them in {{mainAppName}} Vault.",
+    "emailInvitationParagraph1": "{{inviterCombinedName}} has invited you to try out the new {{mainAppName}}. {{mainAppName}} is a simple way to take control of your privacy. Send end-to-end encrypted messages and attachments. Keep your files safe by storing them in {{mainAppName}}.",
     "emailInvitationParagraph2": "Once you sign up, you can start a chat with {{inviterCombinedName}} at the username {{inviterUsername}}",
     "emailInvitationParagraph3": "If you have any issues, feel free to contact user {{supportUsername}} on {{mainAppName}} or email {{supportEmail}}.",
     "emailInvitationParagraph4": "We hope you enjoy using the app!!",
