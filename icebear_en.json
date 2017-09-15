@@ -350,7 +350,7 @@
   "title_randomMessage3": "Want to make Peerio even better? Let us know how: message <b>@feedback</>.",
   "title_randomMessage4": "It's okay to pick favourites. Mark the ⭐ in a chat to keep it in sight.",
   "error_accountSuspendedTitle": "Account suspended",
-  "error_accountSuspendedText": "Please contact support at <a-mailSupport>support@peerio.com</> to restore your account. Also, check the primary email address associated with your account, as you may have already been contacted.",
+  "error_accountSuspendedText": "Please <a-mailSupport>contact support</> to restore your account. Also, check the primary email address associated with your account, as you may have already been contacted.",
   "error_deletingAccountNoConfirmedEmail": "Error deleting account. You must have confirmed your email address to delete your account.",
   "error_upgradingAccountNoConfirmedEmail": "Please confirm your email address before upgrading your Peerio account.",
   "error_deletingAccount": "Error deleting account",

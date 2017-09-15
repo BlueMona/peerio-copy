@@ -44,7 +44,7 @@
     "emailAccountConfirmationParagraph1": "Enable contact discovery and support services for this account.",
     "emailAccountConfirmationParagraph2": "Once you have clicked the link above, other {{mainAppName}} users will be able to find you by looking up your email address. Please check your in-app settings in order to toggle email notifications and to add other email addresses you wish to use for contact discovery.",
     "emailAccountConfirmationParagraph3": "Please note that failing to confirm one (or more) email addresses will mean you might not be able to use certain functionality in the app",
-    "emailAccountConfirmationAction": "CONFIRM EMAIL",
+    "emailAccountConfirmationAction": "CONFIRM",
     "emailAddressConfirmationSubject": "Please confirm your new address",
     "emailAddressConfirmationSalutation": "Hi {{recipient_normalised_name}},",
     "emailAddressConfirmationParagraph1": "You have added this address to your {{mainAppName}} account.",
