@@ -464,6 +464,7 @@
   "error_channelEmailInviteRemove": "Unable to cancel invite",
   "title_hello": "Hello",
   "title_signup": "Sign Up",
+  "title_signupHere": "Create a new account. <a-signup>Sign up</> here.",
   "error_setup2fa": "Unable to enable two step verification",
   "error_disable2fa": "Unable to disable two step verification",
   "error_reissue2faBackupCodes": "Unable to generate backup codes",
