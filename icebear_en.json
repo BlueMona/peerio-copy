@@ -412,6 +412,7 @@
   "title_2FASecretKey": "Secret key",
   "dialog_enter2FA": "Enter the code provided by your authenticator app.",
   "title_2FACode": "Authenticator app code",
+  "title_2FAEnabled": "Two factor authentication is enabled\n\n",
   "title_2FABackupCode": "Backup codes",
   "button_2FADeactivate": "Deactivate 2FA",
   "button_2FACopyKey": "Copy Key",
