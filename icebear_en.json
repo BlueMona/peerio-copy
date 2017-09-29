@@ -459,6 +459,7 @@
   "title_confirmTextInput": "Confirm that you’ve saved your key by entering  “{sample}” in the input below.",
   "title_confirmTextInputLabel": "Have you saved your account key?",
   "title_confirmHeadline": "Got your keys?",
+  "title_confirmTitle": "Remember, we can’t access your data.",
   "title_confirmContent1": "Only you have a copy of your Account Key.",
   "title_confirmContent2": "If you lose it, we cannot help you access your account.",
   "title_accountKey1": "Passwords are way stronger when computers make them. This Account Key was generated just for you. Beep boop.",
