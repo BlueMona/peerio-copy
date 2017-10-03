@@ -97,7 +97,7 @@
   "error_signupServerError": "Server error. Please try again later.",
   "error_usernameNotFound": "Username not found.",
   "error_userNotFound": "User not found",
-  "error_userNotFoundTryEmail": "{user} could not be found. Try searching by email address.",
+  "error_userNotFoundTryEmail": "<b>{user}</> could not be found. Try searching by email address.",
   "error_loginFailed": "Sign-in failed",
   "title_userSearch": "Enter username or email",
   "button_block": "Block",
