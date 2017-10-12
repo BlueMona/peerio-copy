@@ -519,7 +519,7 @@
   "title_updateUrlSettingsAnyTime": "Update your <a-settings>settings</> at any time.",
   "title_ratingDialogHeading": "How would you rate Peerio?",
   "dialog_ratingInstructions": "Select how many stars you'd give us on a scale of 1-5.<br/>We read all comments and feedback ☺️",
-  "dialog_suggestionsPlaceholder": "",
+  "dialog_suggestionsPlaceholder": "How could we do better?",
   "dialog_rating1Star": "Hate it",
   "dialog_rating2Star": "Dislike it",
   "dialog_rating3Star": "It's okay",
