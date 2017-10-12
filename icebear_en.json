@@ -516,5 +516,12 @@
   "error_invalid2faCode": "Invalid two step verification code",
   "title_earned": "{current} MB of {max} MB earned",
   "title_recentFiles": "Recent files",
-  "title_updateUrlSettingsAnyTime": "Update your <a-settings>settings</> at any time."
+  "title_updateUrlSettingsAnyTime": "Update your <a-settings>settings</> at any time.",
+  "title_ratingDialogHeading": "How would you rate Peerio?",
+  "dialog_ratingInstructions": "Select how many stars you'd give us on a scale of 1-5.<br/>We read all comments and feedback ☺️",
+  "dialog_rating1Star": "Hate it",
+  "dialog_rating2Star": "Dislike it",
+  "dialog_rating3Star": "It's okay",
+  "dialog_rating4Star": "Like it",
+  "dialog_rating5Star": "Love it"
 }
