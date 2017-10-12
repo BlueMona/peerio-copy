@@ -89,7 +89,7 @@
   "serverWarning_scheduledDowntime":"Peerio will be unavailable due to scheduled maintenance between {time1} and {time2}. Thank you for your understanding.",
   "error_fieldRequired": "Required",
   "error_usernameBadFormat": "Only letters, numbers or underscore allowed.",
-  "error_usernameNotAvailable": "Username is not available.",
+  "error_usernameNotAvailable": "Username already exisits, try another one.",
   "error_invalidName": "Name is not allowed.",
   "error_invalidEmail": "Enter a valid email.",
   "error_invalidEmailOrUsername": "Enter a valid email or username.",
