@@ -396,6 +396,8 @@
   "error_deletingAccountNoConfirmedEmail": "Error deleting account. You must have confirmed your email address to delete your account.",
   "error_upgradingAccountNoConfirmedEmail": "Please confirm your email address before upgrading your Peerio account.",
   "error_deletingAccount": "Error deleting account",
+  "title_addRoom": "Add a room",
+  "title_addDirectMessage": "Add direct message",
   "title_addedPeopleLimit": "{added}/{limit} people in this chat.",
   "title_goCreateChannel": "If you need to chat with multiple people, try a room instead.",
   "title_goCreateChat": "Don't need a room? Use DM instead.",
