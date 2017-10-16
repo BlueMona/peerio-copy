@@ -298,7 +298,7 @@
   "title_fileDownloadLocation": "Files you download will be saved to:",
   "title_displayPreferences": "Display",
   "title_unreadChatsOnTopDetail": "Show unread messages first",
-  "title_imagePreviews": "Image preview",
+  "title_imagePreview": "Image preview",
   "title_imageFilePreviews": "Image file previews",
   "title_showImagePreviews": "Show previews of image files",
   "title_showImagePreviewsDescription": "Previews will be stored unencrypted on this device",
