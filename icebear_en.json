@@ -408,6 +408,8 @@
   "error_deletingAccountNoConfirmedEmail": "Error deleting account. You must have confirmed your email address to delete your account.",
   "error_upgradingAccountNoConfirmedEmail": "Please confirm your email address before upgrading your Peerio account.",
   "error_deletingAccount": "Error deleting account",
+  "title_zeroChat": "No chats? <semibold>No problem!</>",
+  "title_zeroChatInstructions": "Enter a contact's username or email to get started",
   "title_addRoom": "Add a room",
   "title_addDirectMessage": "Add direct message",
   "title_addedPeopleLimit": "{added}/{limit} people in this chat.",
