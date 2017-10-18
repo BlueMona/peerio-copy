@@ -533,7 +533,7 @@
   "title_earned": "{current} MB of {max} MB earned",
   "title_recentFiles": "Recent files",
   "title_noRecentFiles": "You have no recent files.<br/><clickHere>Click here</> to share a file in this chat.",
-  "title_updateSettingsAnyTime": "Update your <a-settings>settings</> at any time.",
+  "title_updateSettingsAnyTime": "Update your <toSettings>settings</> at any time.",
   "button_clickHere": "Click here",
   "title_ratingDialogHeading": "How would you rate Peerio?",
   "dialog_ratingInstructions": "Select how many stars you'd give us on a scale of 1-5.<br/>We read all comments and feedback ☺️",
