@@ -552,5 +552,5 @@
   "dialog_rating3Star": "It's okay",
   "dialog_rating4Star": "Like it",
   "dialog_rating5Star": "Love it",
-  "error_loadingImage": "Error loading image - the file is corrupted or not an image",
+  "error_loadingImage": "Error loading image - the file is corrupted or not an image"
 }
