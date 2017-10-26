@@ -183,6 +183,8 @@
   "error_changeChatFavoriteState": "Unable to change chat state",
   "title_readMore": "Read more",
   "title_files": "Files",
+  "button_addFolder": "Add folder",
+  "button_create": "Create",
   "title_fileSize": "File size",
   "title_selectedFiles": "Selected file(s)",
   "title_invalidFileSignature": "Invalid file signature",
