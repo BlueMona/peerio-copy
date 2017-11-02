@@ -789,5 +789,11 @@
   "signup_passcodeHint_number":"Use at least one number.",
   "signup_passcodeHint_specialChars": "Use at least one special character.",
   "signup_passcodeHint_dictionary": "No common words (\"password\", etc).",
-  "signup_passcodeErrorShort": "Please choose a longer password"
+  "signup_passcodeErrorShort": "Please choose a longer password",
+  "title_videoCallLink": "Use Jitsi for encrypted video chat",
+  "title_videoCall": "Setup Jitsi Meet",
+  "dialog_videoCall": "Jitsi Meet is a web-based encrypted video chat and screen sharing service",
+  "disclaimer_videoCall": "Jitsi app required on mobile devices.",
+  "button_gotJitsi": "Got it!",
+  "button_notGotJitsi": "Get app"
 }
