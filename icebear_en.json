@@ -449,6 +449,7 @@
   "button_channelLimit": "Room limit",
   "title_channelDeleted": "Room deleted.",
   "title_channelInvites": "Room invites",
+  "title_viewChannelInvites": "View Room Invites",
   "title_channelInviteRevoked": "Invite to Room revoked.",
   "title_createChannel": "Create Room",
   "title_createChannelDetails": "Rooms have unlimited participants. They work best when organized by topic. Free accounts are limited to 3 Rooms.<br/><br/><a-upgrade>Upgrade for unlimited Rooms</>.",
