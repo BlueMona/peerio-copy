@@ -434,7 +434,7 @@
   "title_addedPeopleLimit": "{added}/{limit} people in this chat.",
   "title_goCreateChannel": "If you need to chat with multiple people, try a Room instead.",
   "title_goCreateChat": "Don't need a Room? Use DM instead.",
-  "title_channelUpgradeOffer": "Hello! Your account can access <b>{limit} Rooms</> at a time. Upgrade for access to unlimited Rooms.",
+  "title_channelUpgradeOffer": "Oops!\nYour account has run out of free rooms on this plan. Upgrade your plan for more.",
   "title_channelCreateOffer": "Hi there! Want to chat with multiple people? Try creating a Room instead.",
   "title_limitDialog": "Limit reached!",
   "title_limitDialogText1": "Your account allows for only {limit} Rooms at a time",
