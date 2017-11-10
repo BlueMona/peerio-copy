@@ -586,9 +586,12 @@
   "button_gotJitsi": "Got it!",
   "button_notGotJitsi": "Get app",
   "title_imageTooBigCutoff": "Preview not available for images over {size}",
+  "error_messageErrorHeader": "Error rendering message",
+  "error_messageErrorMessageInfo": "Message Info",
   "error_messageErrorSenderName": "Sender",
   "error_messageErrorMessageId": "Message ID",
   "error_messageErrorTimestamp": "Timestamp",
   "error_messageErrorMessagePlaintext": "Message Plaintext",
-  "error_messageErrorMessageRichtext": "Message Rich Text"
+  "error_messageErrorMessageRichtext": "Message Rich Text",
+  "error_messageErrorAdditionalInfo": "Additional information about this error"
 }
