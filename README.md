@@ -3,6 +3,7 @@ Master repository for English copy, synchronized with Transifex.
 
 If you would like to contribute translations, please do so on our [Transifex portal](https://www.transifex.com/projects/p/peerio/), NOT here. 
 
+If you're here because you're adding new strings to a Peerio client, you probably want to check out the [__`icebear`__](https://github.com/PeerioTechnologies/peerio-copy/tree/icebear) branch and update `icebear_en.json`.
 
 ### exclusions-masterlist
 The list of words to be removed from Peerio's passphrase dictionaries. The list is multi-lingual and suggestions to add or remove words in any language are welcome. 
