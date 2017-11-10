@@ -102,6 +102,7 @@
   "error_usernameNotFound": "Username not found.",
   "error_userNotFound": "User not found",
   "error_userNotFoundTryEmail": "<b>{user}</> could not be found. Try searching by email address.",
+  "error_userAlreadyAdded": "<b>{user}</> is already in this room.",
   "error_loginFailed": "Sign-in failed",
   "title_userSearch": "Enter username or email",
   "button_block": "Block",
