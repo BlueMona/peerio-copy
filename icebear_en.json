@@ -405,7 +405,6 @@
   "title_invitedContacts": "Invited",
   "title_inviteLegacy": "This legacy Peerio user has not migrated to Peerio 2 yet.",
   "title_newRoom": "New Room",
-  "title_newDirectMessage": "New direct message",
   "title_to": "To: ",
   "title_searchByUsernameOrEmail": "Search by username or email",
   "title_allYourContacts": "All your contacts ( {found} )",
