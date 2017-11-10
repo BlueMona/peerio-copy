@@ -324,7 +324,7 @@
   "title_showImagePreviews": "Show previews of image files",
   "title_showImagePreviewsDescription": "Previews will be stored unencrypted on this device",
   "title_showImagePreviewsDescription2": "Previews will be downloaded and stored unencrypted on this device",
-  "title_showLargeImages": "Show images larger than 3 MB",
+  "title_showLargeImages": "Show images larger than {size} MB",
   "title_showLargeImages10MB": "Show images larger than 10 MB",
   "title_urlPreview": "URL preview",
   "title_enableAllUrlPreview": "Enable all URL preview",
