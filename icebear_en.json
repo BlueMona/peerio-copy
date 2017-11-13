@@ -597,5 +597,7 @@
   "error_messageErrorMessagePlaintext": "Message Plaintext",
   "error_messageErrorMessageRichtext": "Message Rich Text",
   "error_messageErrorAdditionalInfo": "Additional information about this error",
-  "error_messageErrorNotAvailable": "Not available"
+  "error_messageErrorNotAvailable": "Not available",
+  "title_verifyUserIdentity": "You can verify any user’s identity with their Peerio ID#.",
+  "button_showMeHow": "Show me how"
 }
