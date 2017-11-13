@@ -193,6 +193,7 @@
   "button_newFolder": "Add folder",
   "title_folderName": "Folder name",
   "title_deleteFolder": "Are you sure you want to delete {folderName}?",
+  "title_noFilesInFolder": "No files in this folder",
   "button_create": "Create",
   "title_fileSize": "File size",
   "title_selectedFiles": "Selected file(s)",
