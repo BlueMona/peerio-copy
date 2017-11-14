@@ -416,7 +416,7 @@
   "title_allYourInvited": "All your invites ( {found} )",
   "title_allContacts": "All Contacts",
   "title_findAContact": "Search your contacts",
-  "error_contactNotFound": "Your search for {searchString} did not match any of your current contacts.<br/>Would you like to <toAddContact>add a new contact</>?",
+  "error_contactNotFound": "Your search for <b>{searchString}</> did not match any of your current contacts.<br/>Would you like to <toAddContact>add a new contact</>?",
   "title_shareSocial": "Invite elsewhere",
   "button_addToYourContacts": "Add to your favourites",
   "button_removeFromYourContacts": "Remove from your favourites",
