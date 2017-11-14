@@ -476,6 +476,7 @@
   "error_removeParticipant": "Unable to remove member.",
   "error_acceptChannelInvite": "Unable to join Room.",
   "title_invitedBy": "Invited by {username} on {timestamp}",
+  "title_invitedBy_mobile": "Invited by {username}",
   "title_allCaughtUp": "You're all caught up!",
   "title_noMoreInvites": "No more room invites.",
   "title_admin": "admin",
