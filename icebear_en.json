@@ -460,7 +460,7 @@
   "title_channelInviteRevoked": "Invite to Room revoked.",
   "title_createChannel": "Open a Room",
   "title_createChannelDetails": "Rooms have unlimited participants, and work best when organized by topic.<br/>Want just with one person? <toCreateDM>Create a Direct Message instead.</>",
-  "title_createChannelUpgradeOffer": "Free accounts are limited to 3 Rooms.<br/><br/><a-upgrade>Upgrade for unlimited Rooms</>.",
+  "title_createChannelUpgradeOffer": "Free accounts are limited to 3 Rooms. <a-upgrade>Upgrade for unlimited Rooms</>.",
   "title_channelName": "Name",
   "title_channelNamePlaceholder": "# Name",
   "title_channelPurpose": "Purpose (optional)",
